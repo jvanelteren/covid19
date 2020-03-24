@@ -1,4 +1,5 @@
 Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
+63.0,12.0,537833.0,21,03-24-2020,'s-Gravenhage
 53.0,10.0,537833.0,20,03-23-2020,'s-Gravenhage
 47.0,9.0,537833.0,19,03-22-2020,'s-Gravenhage
 44.0,8.0,537833.0,18,03-21-2020,'s-Gravenhage
@@ -17,6 +18,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,0.0,537833.0,05,03-08-2020,'s-Gravenhage
 2.0,0.0,537833.0,04,03-07-2020,'s-Gravenhage
 2.0,0.0,537833.0,03,03-06-2020,'s-Gravenhage
+67.0,43.0,154205.0,21,03-24-2020,'s-Hertogenbosch
 60.0,39.0,154205.0,20,03-23-2020,'s-Hertogenbosch
 55.0,36.0,154205.0,19,03-22-2020,'s-Hertogenbosch
 45.0,29.0,154205.0,18,03-21-2020,'s-Hertogenbosch
@@ -37,6 +39,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 99.0,64.0,154205.0,17,03-20-2020,* Bij 112 personen is de woonplaats niet van bekend
 99.0,64.0,154205.0,18,03-21-2020,* Bij 137 personen is de woonplaats niet van bekend
 99.0,64.0,154205.0,20,03-23-2020,* Bij 184 personen is de woonplaats niet van bekend
+99.0,64.0,154205.0,21,03-24-2020,* Bij 200 personen is de woonplaats niet van bekend
 99.0,64.0,154205.0,19,03-22-2020,* Bij 55 personen is de woonplaats niet van bekend
 13.0,8.0,154205.0,11,03-14-2020,* postcode ontbreekt bij 37 pt en 1 woont in buitenland
 13.0,8.0,154205.0,12,03-16-2020,* postcode ontbreekt bij 58 pt en 1 woont in buitenland
@@ -44,6 +47,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 13.0,8.0,154205.0,13,03-16-2020,* postcode ontbreekt bij 70 pt en 1 woont in buitenland
 99.0,64.0,154205.0,15,03-18-2020,* postcode ontbreekt bij 84 pt en 1 woont in buitenland
 99.0,64.0,154205.0,16,03-19-2020,* postcode ontbreekt bij 89 pt en 1 woont in buitenland
+1.0,4.0,25386.0,21,03-24-2020,Aa en Hunze
 1.0,4.0,25386.0,20,03-23-2020,Aa en Hunze
 1.0,4.0,25386.0,19,03-22-2020,Aa en Hunze
 0.0,0.0,25386.0,18,03-21-2020,Aa en Hunze
@@ -51,6 +55,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,25386.0,16,03-19-2020,Aa en Hunze
 0.0,0.0,25386.0,15,03-18-2020,Aa en Hunze
 0.0,0.0,25386.0,14,03-17-2020,Aa en Hunze
+9.0,28.0,31728.0,21,03-24-2020,Aalsmeer
 8.0,25.0,31728.0,20,03-23-2020,Aalsmeer
 7.0,22.0,31728.0,19,03-22-2020,Aalsmeer
 5.0,16.0,31728.0,18,03-21-2020,Aalsmeer
@@ -65,6 +70,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,6.0,31728.0,09,03-12-2020,Aalsmeer
 2.0,6.0,31728.0,08,03-11-2020,Aalsmeer
 2.0,6.0,31728.0,07,03-10-2020,Aalsmeer
+1.0,4.0,27011.0,21,03-24-2020,Aalten
 1.0,4.0,27011.0,20,03-23-2020,Aalten
 1.0,4.0,27011.0,19,03-22-2020,Aalten
 1.0,4.0,27011.0,18,03-21-2020,Aalten
@@ -72,6 +78,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,27011.0,16,03-19-2020,Aalten
 0.0,0.0,27011.0,15,03-18-2020,Aalten
 0.0,0.0,27011.0,14,03-17-2020,Aalten
+0.0,0.0,27852.0,21,03-24-2020,Achtkarspelen
 0.0,0.0,27852.0,20,03-23-2020,Achtkarspelen
 0.0,0.0,27852.0,19,03-22-2020,Achtkarspelen
 0.0,0.0,27852.0,18,03-21-2020,Achtkarspelen
@@ -79,6 +86,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,27852.0,16,03-19-2020,Achtkarspelen
 0.0,0.0,27852.0,15,03-18-2020,Achtkarspelen
 0.0,0.0,27852.0,14,03-17-2020,Achtkarspelen
+4.0,20.0,20069.0,21,03-24-2020,Alblasserdam
 4.0,20.0,20069.0,20,03-23-2020,Alblasserdam
 4.0,20.0,20069.0,19,03-22-2020,Alblasserdam
 3.0,15.0,20069.0,18,03-21-2020,Alblasserdam
@@ -86,6 +94,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,10.0,20069.0,16,03-19-2020,Alblasserdam
 1.0,5.0,20069.0,15,03-18-2020,Alblasserdam
 1.0,5.0,20069.0,14,03-17-2020,Alblasserdam
+18.0,71.0,25271.0,21,03-24-2020,Albrandswaard
 14.0,55.0,25271.0,20,03-23-2020,Albrandswaard
 12.0,47.0,25271.0,19,03-22-2020,Albrandswaard
 8.0,32.0,25271.0,18,03-21-2020,Albrandswaard
@@ -102,6 +111,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,25271.0,07,03-10-2020,Albrandswaard
 1.0,4.0,25271.0,06,03-09-2020,Albrandswaard
 1.0,4.0,25271.0,05,03-08-2020,Albrandswaard
+20.0,18.0,108558.0,21,03-24-2020,Alkmaar
 16.0,15.0,108558.0,20,03-23-2020,Alkmaar
 15.0,14.0,108558.0,19,03-22-2020,Alkmaar
 11.0,10.0,108558.0,18,03-21-2020,Alkmaar
@@ -116,6 +126,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,108558.0,09,03-12-2020,Alkmaar
 1.0,1.0,108558.0,08,03-11-2020,Alkmaar
 1.0,1.0,108558.0,07,03-10-2020,Alkmaar
+8.0,11.0,72849.0,21,03-24-2020,Almelo
 7.0,10.0,72849.0,20,03-23-2020,Almelo
 5.0,7.0,72849.0,19,03-22-2020,Almelo
 4.0,5.0,72849.0,18,03-21-2020,Almelo
@@ -132,6 +143,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,72849.0,07,03-10-2020,Almelo
 1.0,1.0,72849.0,06,03-09-2020,Almelo
 1.0,1.0,72849.0,05,03-08-2020,Almelo
+21.0,10.0,207904.0,21,03-24-2020,Almere
 18.0,9.0,207904.0,20,03-23-2020,Almere
 14.0,7.0,207904.0,19,03-22-2020,Almere
 11.0,5.0,207904.0,18,03-21-2020,Almere
@@ -150,6 +162,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,0.0,207904.0,05,03-08-2020,Almere
 1.0,0.0,207904.0,04,03-07-2020,Almere
 1.0,0.0,207904.0,03,03-06-2020,Almere
+20.0,18.0,110986.0,21,03-24-2020,Alphen aan den Rijn
 17.0,15.0,110986.0,20,03-23-2020,Alphen aan den Rijn
 17.0,15.0,110986.0,19,03-22-2020,Alphen aan den Rijn
 15.0,14.0,110986.0,18,03-21-2020,Alphen aan den Rijn
@@ -171,6 +184,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,110986.0,02,03-05-2020,Alphen aan den Rijn
 1.0,1.0,110986.0,01,03-04-2020,Alphen aan den Rijn
 1.0,1.0,110986.0,00,03-03-2020,Alphen aan den Rijn
+15.0,148.0,10149.0,21,03-24-2020,Alphen-Chaam
 14.0,138.0,10149.0,20,03-23-2020,Alphen-Chaam
 9.0,89.0,10149.0,19,03-22-2020,Alphen-Chaam
 7.0,69.0,10149.0,18,03-21-2020,Alphen-Chaam
@@ -181,6 +195,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,10.0,10149.0,12,03-16-2020,Alphen-Chaam
 2.0,20.0,10149.0,13,03-16-2020,Alphen-Chaam
 1.0,10.0,10149.0,11,03-14-2020,Alphen-Chaam
+28.0,51.0,55386.0,21,03-24-2020,Altena
 25.0,45.0,55386.0,20,03-23-2020,Altena
 23.0,42.0,55386.0,19,03-22-2020,Altena
 22.0,40.0,55386.0,18,03-21-2020,Altena
@@ -202,6 +217,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,7.0,55386.0,02,03-05-2020,Altena
 3.0,5.0,55386.0,01,03-04-2020,Altena
 3.0,5.0,55386.0,00,03-03-2020,Altena
+0.0,0.0,3673.0,21,03-24-2020,Ameland
 0.0,0.0,3673.0,20,03-23-2020,Ameland
 0.0,0.0,3673.0,19,03-22-2020,Ameland
 0.0,0.0,3673.0,18,03-21-2020,Ameland
@@ -209,6 +225,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,3673.0,16,03-19-2020,Ameland
 0.0,0.0,3673.0,15,03-18-2020,Ameland
 0.0,0.0,3673.0,14,03-17-2020,Ameland
+44.0,28.0,156286.0,21,03-24-2020,Amersfoort
 41.0,26.0,156286.0,20,03-23-2020,Amersfoort
 37.0,24.0,156286.0,19,03-22-2020,Amersfoort
 37.0,24.0,156286.0,18,03-21-2020,Amersfoort
@@ -222,6 +239,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,3.0,156286.0,10,03-13-2020,Amersfoort
 4.0,3.0,156286.0,09,03-12-2020,Amersfoort
 2.0,1.0,156286.0,08,03-11-2020,Amersfoort
+33.0,36.0,90838.0,21,03-24-2020,Amstelveen
 29.0,32.0,90838.0,20,03-23-2020,Amstelveen
 27.0,30.0,90838.0,19,03-22-2020,Amstelveen
 26.0,29.0,90838.0,18,03-21-2020,Amstelveen
@@ -239,6 +257,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,2.0,90838.0,06,03-09-2020,Amstelveen
 1.0,1.0,90838.0,05,03-08-2020,Amstelveen
 1.0,1.0,90838.0,04,03-07-2020,Amstelveen
+250.0,29.0,862965.0,21,03-24-2020,Amsterdam
 203.0,24.0,862965.0,20,03-23-2020,Amsterdam
 188.0,22.0,862965.0,19,03-22-2020,Amsterdam
 161.0,19.0,862965.0,18,03-21-2020,Amsterdam
@@ -259,6 +278,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,0.0,862965.0,03,03-06-2020,Amsterdam
 2.0,0.0,862965.0,02,03-05-2020,Amsterdam
 1.0,0.0,862965.0,01,03-04-2020,Amsterdam
+29.0,18.0,162445.0,21,03-24-2020,Apeldoorn
 26.0,16.0,162445.0,20,03-23-2020,Apeldoorn
 17.0,10.0,162445.0,19,03-22-2020,Apeldoorn
 16.0,10.0,162445.0,18,03-21-2020,Apeldoorn
@@ -272,6 +292,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,1.0,162445.0,10,03-13-2020,Apeldoorn
 2.0,1.0,162445.0,09,03-12-2020,Apeldoorn
 1.0,1.0,162445.0,08,03-11-2020,Apeldoorn
+0.0,0.0,11721.0,21,03-24-2020,Appingedam
 0.0,0.0,11721.0,20,03-23-2020,Appingedam
 0.0,0.0,11721.0,19,03-22-2020,Appingedam
 0.0,0.0,11721.0,18,03-21-2020,Appingedam
@@ -279,6 +300,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,11721.0,16,03-19-2020,Appingedam
 0.0,0.0,11721.0,15,03-18-2020,Appingedam
 0.0,0.0,11721.0,14,03-17-2020,Appingedam
+23.0,14.0,159265.0,21,03-24-2020,Arnhem
 20.0,13.0,159265.0,20,03-23-2020,Arnhem
 16.0,10.0,159265.0,19,03-22-2020,Arnhem
 15.0,9.0,159265.0,18,03-21-2020,Arnhem
@@ -297,6 +319,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,2.0,159265.0,05,03-08-2020,Arnhem
 1.0,1.0,159265.0,04,03-07-2020,Arnhem
 1.0,1.0,159265.0,03,03-06-2020,Arnhem
+5.0,7.0,67963.0,21,03-24-2020,Assen
 4.0,6.0,67963.0,20,03-23-2020,Assen
 2.0,3.0,67963.0,19,03-22-2020,Assen
 1.0,1.0,67963.0,18,03-21-2020,Assen
@@ -304,6 +327,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,67963.0,16,03-19-2020,Assen
 0.0,0.0,67963.0,15,03-18-2020,Assen
 0.0,0.0,67963.0,14,03-17-2020,Assen
+6.0,36.0,16710.0,21,03-24-2020,Asten
 5.0,30.0,16710.0,20,03-23-2020,Asten
 5.0,30.0,16710.0,19,03-22-2020,Asten
 5.0,30.0,16710.0,18,03-21-2020,Asten
@@ -313,6 +337,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,12.0,16710.0,14,03-17-2020,Asten
 1.0,6.0,16710.0,12,03-16-2020,Asten
 1.0,6.0,16710.0,13,03-16-2020,Asten
+1.0,15.0,6847.0,21,03-24-2020,Baarle-Nassau
 1.0,15.0,6847.0,20,03-23-2020,Baarle-Nassau
 1.0,15.0,6847.0,19,03-22-2020,Baarle-Nassau
 1.0,15.0,6847.0,18,03-21-2020,Baarle-Nassau
@@ -320,6 +345,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,6847.0,16,03-19-2020,Baarle-Nassau
 0.0,0.0,6847.0,15,03-18-2020,Baarle-Nassau
 0.0,0.0,6847.0,14,03-17-2020,Baarle-Nassau
+2.0,8.0,24767.0,21,03-24-2020,Baarn
 2.0,8.0,24767.0,20,03-23-2020,Baarn
 1.0,4.0,24767.0,19,03-22-2020,Baarn
 1.0,4.0,24767.0,18,03-21-2020,Baarn
@@ -327,6 +353,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,24767.0,16,03-19-2020,Baarn
 0.0,0.0,24767.0,15,03-18-2020,Baarn
 0.0,0.0,24767.0,14,03-17-2020,Baarn
+15.0,31.0,48673.0,21,03-24-2020,Barendrecht
 13.0,27.0,48673.0,20,03-23-2020,Barendrecht
 10.0,21.0,48673.0,19,03-22-2020,Barendrecht
 9.0,18.0,48673.0,18,03-21-2020,Barendrecht
@@ -339,6 +366,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,48673.0,11,03-14-2020,Barendrecht
 1.0,2.0,48673.0,10,03-13-2020,Barendrecht
 1.0,2.0,48673.0,09,03-12-2020,Barendrecht
+12.0,21.0,57971.0,21,03-24-2020,Barneveld
 10.0,17.0,57971.0,20,03-23-2020,Barneveld
 9.0,16.0,57971.0,19,03-22-2020,Barneveld
 8.0,14.0,57971.0,18,03-21-2020,Barneveld
@@ -348,6 +376,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,7.0,57971.0,14,03-17-2020,Barneveld
 2.0,3.0,57971.0,12,03-16-2020,Barneveld
 3.0,5.0,57971.0,13,03-16-2020,Barneveld
+9.0,57.0,15929.0,21,03-24-2020,Beek
 5.0,31.0,15929.0,20,03-23-2020,Beek
 5.0,31.0,15929.0,19,03-22-2020,Beek
 5.0,31.0,15929.0,18,03-21-2020,Beek
@@ -358,6 +387,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,19.0,15929.0,12,03-16-2020,Beek
 3.0,19.0,15929.0,13,03-16-2020,Beek
 8.0,50.0,15929.0,09,03-12-2020,BeekDaelen
+29.0,81.0,35727.0,21,03-24-2020,Beekdaelen
 20.0,56.0,35727.0,20,03-23-2020,Beekdaelen
 19.0,53.0,35727.0,19,03-22-2020,Beekdaelen
 19.0,53.0,35727.0,18,03-21-2020,Beekdaelen
@@ -375,6 +405,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,6.0,35727.0,05,03-08-2020,Beekdaelen
 2.0,6.0,35727.0,04,03-07-2020,Beekdaelen
 1.0,3.0,35727.0,03,03-06-2020,Beekdaelen
+1.0,10.0,9748.0,21,03-24-2020,Beemster
 0.0,0.0,9748.0,20,03-23-2020,Beemster
 0.0,0.0,9748.0,19,03-22-2020,Beemster
 0.0,0.0,9748.0,18,03-21-2020,Beemster
@@ -382,6 +413,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,9748.0,16,03-19-2020,Beemster
 0.0,0.0,9748.0,15,03-18-2020,Beemster
 0.0,0.0,9748.0,14,03-17-2020,Beemster
+6.0,44.0,13519.0,21,03-24-2020,Beesel
 5.0,37.0,13519.0,20,03-23-2020,Beesel
 5.0,37.0,13519.0,19,03-22-2020,Beesel
 3.0,22.0,13519.0,18,03-21-2020,Beesel
@@ -389,6 +421,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,13519.0,16,03-19-2020,Beesel
 0.0,0.0,13519.0,15,03-18-2020,Beesel
 0.0,0.0,13519.0,14,03-17-2020,Beesel
+35.0,101.0,34798.0,21,03-24-2020,Berg en Dal
 33.0,95.0,34798.0,20,03-23-2020,Berg en Dal
 30.0,86.0,34798.0,19,03-22-2020,Berg en Dal
 25.0,72.0,34798.0,18,03-21-2020,Berg en Dal
@@ -403,6 +436,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,9.0,34798.0,09,03-12-2020,Berg en Dal
 3.0,9.0,34798.0,08,03-11-2020,Berg en Dal
 1.0,3.0,34798.0,07,03-10-2020,Berg en Dal
+5.0,27.0,18491.0,21,03-24-2020,Bergeijk
 3.0,16.0,18491.0,20,03-23-2020,Bergeijk
 1.0,5.0,18491.0,19,03-22-2020,Bergeijk
 1.0,5.0,18491.0,18,03-21-2020,Bergeijk
@@ -416,6 +450,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,18491.0,10,03-13-2020,Bergeijk
 1.0,5.0,18491.0,09,03-12-2020,Bergeijk
 1.0,5.0,18491.0,08,03-11-2020,Bergeijk
+1.0,8.0,13140.0,21,03-24-2020,Bergen (L)
 1.0,8.0,13140.0,20,03-23-2020,Bergen (L)
 1.0,8.0,13140.0,19,03-22-2020,Bergen (L)
 1.0,8.0,13140.0,18,03-21-2020,Bergen (L)
@@ -423,6 +458,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,8.0,13140.0,16,03-19-2020,Bergen (L)
 1.0,8.0,13140.0,15,03-18-2020,Bergen (L)
 0.0,0.0,13140.0,14,03-17-2020,Bergen (L)
+12.0,40.0,29974.0,21,03-24-2020,Bergen (NH)
 9.0,30.0,29974.0,20,03-23-2020,Bergen (NH)
 8.0,27.0,29974.0,19,03-22-2020,Bergen (NH)
 6.0,20.0,29974.0,18,03-21-2020,Bergen (NH)
@@ -433,6 +469,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,29974.0,12,03-16-2020,Bergen (NH)
 1.0,3.0,29974.0,13,03-16-2020,Bergen (NH)
 1.0,3.0,29974.0,11,03-14-2020,Bergen (NH)
+12.0,18.0,66811.0,21,03-24-2020,Bergen op Zoom
 12.0,18.0,66811.0,20,03-23-2020,Bergen op Zoom
 10.0,15.0,66811.0,19,03-22-2020,Bergen op Zoom
 9.0,13.0,66811.0,18,03-21-2020,Bergen op Zoom
@@ -449,6 +486,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,66811.0,07,03-10-2020,Bergen op Zoom
 1.0,1.0,66811.0,06,03-09-2020,Bergen op Zoom
 1.0,1.0,66811.0,05,03-08-2020,Bergen op Zoom
+2.0,5.0,43904.0,21,03-24-2020,Berkelland
 2.0,5.0,43904.0,20,03-23-2020,Berkelland
 1.0,2.0,43904.0,19,03-22-2020,Berkelland
 1.0,2.0,43904.0,18,03-21-2020,Berkelland
@@ -456,6 +494,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,43904.0,16,03-19-2020,Berkelland
 0.0,0.0,43904.0,15,03-18-2020,Berkelland
 0.0,0.0,43904.0,14,03-17-2020,Berkelland
+67.0,217.0,30806.0,21,03-24-2020,Bernheze
 62.0,201.0,30806.0,20,03-23-2020,Bernheze
 57.0,185.0,30806.0,19,03-22-2020,Bernheze
 41.0,133.0,30806.0,18,03-21-2020,Bernheze
@@ -473,6 +512,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,6.0,30806.0,06,03-09-2020,Bernheze
 1.0,3.0,30806.0,05,03-08-2020,Bernheze
 1.0,3.0,30806.0,04,03-07-2020,Bernheze
+17.0,57.0,29821.0,21,03-24-2020,Best
 14.0,47.0,29821.0,20,03-23-2020,Best
 14.0,47.0,29821.0,19,03-22-2020,Best
 11.0,37.0,29821.0,18,03-21-2020,Best
@@ -492,6 +532,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,29821.0,04,03-07-2020,Best
 1.0,3.0,29821.0,03,03-06-2020,Best
 1.0,3.0,29821.0,02,03-05-2020,Best
+13.0,50.0,25882.0,21,03-24-2020,Beuningen
 12.0,46.0,25882.0,20,03-23-2020,Beuningen
 11.0,43.0,25882.0,19,03-22-2020,Beuningen
 9.0,35.0,25882.0,18,03-21-2020,Beuningen
@@ -510,6 +551,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,19.0,25882.0,05,03-08-2020,Beuningen
 1.0,4.0,25882.0,04,03-07-2020,Beuningen
 1.0,4.0,25882.0,03,03-06-2020,Beuningen
+11.0,27.0,41176.0,21,03-24-2020,Beverwijk
 7.0,17.0,41176.0,20,03-23-2020,Beverwijk
 7.0,17.0,41176.0,19,03-22-2020,Beverwijk
 6.0,15.0,41176.0,18,03-21-2020,Beverwijk
@@ -530,6 +572,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,41176.0,03,03-06-2020,Beverwijk
 2.0,5.0,41176.0,02,03-05-2020,Beverwijk
 1.0,2.0,41176.0,01,03-04-2020,Beverwijk
+14.0,69.0,20175.0,21,03-24-2020,Bladel
 12.0,59.0,20175.0,20,03-23-2020,Bladel
 11.0,55.0,20175.0,19,03-22-2020,Bladel
 7.0,35.0,20175.0,18,03-21-2020,Bladel
@@ -540,6 +583,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,20175.0,12,03-16-2020,Bladel
 1.0,5.0,20175.0,13,03-16-2020,Bladel
 1.0,5.0,20175.0,11,03-14-2020,Bladel
+4.0,36.0,11202.0,21,03-24-2020,Blaricum
 4.0,36.0,11202.0,20,03-23-2020,Blaricum
 4.0,36.0,11202.0,19,03-22-2020,Blaricum
 4.0,36.0,11202.0,18,03-21-2020,Blaricum
@@ -560,6 +604,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,9.0,11202.0,03,03-06-2020,Blaricum
 1.0,9.0,11202.0,02,03-05-2020,Blaricum
 1.0,9.0,11202.0,01,03-04-2020,Blaricum
+13.0,56.0,23410.0,21,03-24-2020,Bloemendaal
 11.0,47.0,23410.0,20,03-23-2020,Bloemendaal
 8.0,34.0,23410.0,19,03-22-2020,Bloemendaal
 8.0,34.0,23410.0,18,03-21-2020,Bloemendaal
@@ -577,6 +622,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,23410.0,06,03-09-2020,Bloemendaal
 1.0,4.0,23410.0,05,03-08-2020,Bloemendaal
 1.0,4.0,23410.0,04,03-07-2020,Bloemendaal
+5.0,15.0,34462.0,21,03-24-2020,Bodegraven-Reeuwijk
 5.0,15.0,34462.0,20,03-23-2020,Bodegraven-Reeuwijk
 5.0,15.0,34462.0,19,03-22-2020,Bodegraven-Reeuwijk
 3.0,9.0,34462.0,18,03-21-2020,Bodegraven-Reeuwijk
@@ -589,6 +635,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,34462.0,11,03-14-2020,Bodegraven-Reeuwijk
 1.0,3.0,34462.0,10,03-13-2020,Bodegraven-Reeuwijk
 1.0,3.0,34462.0,09,03-12-2020,Bodegraven-Reeuwijk
+42.0,397.0,10588.0,21,03-24-2020,Boekel
 40.0,378.0,10588.0,20,03-23-2020,Boekel
 37.0,349.0,10588.0,19,03-22-2020,Boekel
 32.0,302.0,10588.0,18,03-21-2020,Boekel
@@ -605,6 +652,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,19.0,10588.0,07,03-10-2020,Boekel
 1.0,9.0,10588.0,06,03-09-2020,Boekel
 1.0,9.0,10588.0,05,03-08-2020,Boekel
+0.0,0.0,25372.0,21,03-24-2020,Borger-Odoorn
 0.0,0.0,25372.0,20,03-23-2020,Borger-Odoorn
 0.0,0.0,25372.0,19,03-22-2020,Borger-Odoorn
 0.0,0.0,25372.0,18,03-21-2020,Borger-Odoorn
@@ -612,6 +660,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,25372.0,16,03-19-2020,Borger-Odoorn
 0.0,0.0,25372.0,15,03-18-2020,Borger-Odoorn
 0.0,0.0,25372.0,14,03-17-2020,Borger-Odoorn
+8.0,34.0,23210.0,21,03-24-2020,Borne
 7.0,30.0,23210.0,20,03-23-2020,Borne
 5.0,22.0,23210.0,19,03-22-2020,Borne
 4.0,17.0,23210.0,18,03-21-2020,Borne
@@ -631,6 +680,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,9.0,23210.0,04,03-07-2020,Borne
 1.0,4.0,23210.0,03,03-06-2020,Borne
 1.0,4.0,23210.0,02,03-05-2020,Borne
+4.0,18.0,22800.0,21,03-24-2020,Borsele
 3.0,13.0,22800.0,20,03-23-2020,Borsele
 3.0,13.0,22800.0,19,03-22-2020,Borsele
 3.0,13.0,22800.0,18,03-21-2020,Borsele
@@ -644,6 +694,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,22800.0,10,03-13-2020,Borsele
 1.0,4.0,22800.0,09,03-12-2020,Borsele
 1.0,4.0,22800.0,08,03-11-2020,Borsele
+9.0,31.0,29065.0,21,03-24-2020,Boxmeer
 7.0,24.0,29065.0,20,03-23-2020,Boxmeer
 7.0,24.0,29065.0,19,03-22-2020,Boxmeer
 6.0,21.0,29065.0,18,03-21-2020,Boxmeer
@@ -655,6 +706,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,29065.0,13,03-16-2020,Boxmeer
 1.0,3.0,29065.0,11,03-14-2020,Boxmeer
 1.0,3.0,29065.0,10,03-13-2020,Boxmeer
+15.0,49.0,30747.0,21,03-24-2020,Boxtel
 12.0,39.0,30747.0,20,03-23-2020,Boxtel
 12.0,39.0,30747.0,19,03-22-2020,Boxtel
 11.0,36.0,30747.0,18,03-21-2020,Boxtel
@@ -667,6 +719,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,30747.0,11,03-14-2020,Boxtel
 1.0,3.0,30747.0,10,03-13-2020,Boxtel
 1.0,3.0,30747.0,09,03-12-2020,Boxtel
+167.0,91.0,183873.0,21,03-24-2020,Breda
 161.0,88.0,183873.0,20,03-23-2020,Breda
 140.0,76.0,183873.0,19,03-22-2020,Breda
 133.0,72.0,183873.0,18,03-21-2020,Breda
@@ -685,6 +738,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 16.0,9.0,183873.0,05,03-08-2020,Breda
 2.0,1.0,183873.0,04,03-07-2020,Breda
 2.0,1.0,183873.0,03,03-06-2020,Breda
+1.0,6.0,17182.0,21,03-24-2020,Brielle
 1.0,6.0,17182.0,20,03-23-2020,Brielle
 1.0,6.0,17182.0,19,03-22-2020,Brielle
 1.0,6.0,17182.0,18,03-21-2020,Brielle
@@ -692,6 +746,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17182.0,16,03-19-2020,Brielle
 0.0,0.0,17182.0,15,03-18-2020,Brielle
 0.0,0.0,17182.0,14,03-17-2020,Brielle
+7.0,19.0,36212.0,21,03-24-2020,Bronckhorst
 6.0,17.0,36212.0,20,03-23-2020,Bronckhorst
 6.0,17.0,36212.0,19,03-22-2020,Bronckhorst
 6.0,17.0,36212.0,18,03-21-2020,Bronckhorst
@@ -710,6 +765,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,6.0,36212.0,05,03-08-2020,Bronckhorst
 1.0,3.0,36212.0,04,03-07-2020,Bronckhorst
 1.0,3.0,36212.0,03,03-06-2020,Bronckhorst
+4.0,19.0,20698.0,21,03-24-2020,Brummen
 4.0,19.0,20698.0,20,03-23-2020,Brummen
 1.0,5.0,20698.0,19,03-22-2020,Brummen
 1.0,5.0,20698.0,18,03-21-2020,Brummen
@@ -717,6 +773,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,20698.0,16,03-19-2020,Brummen
 0.0,0.0,20698.0,15,03-18-2020,Brummen
 0.0,0.0,20698.0,14,03-17-2020,Brummen
+17.0,60.0,28103.0,21,03-24-2020,Brunssum
 8.0,28.0,28103.0,20,03-23-2020,Brunssum
 6.0,21.0,28103.0,19,03-22-2020,Brunssum
 6.0,21.0,28103.0,18,03-21-2020,Brunssum
@@ -724,6 +781,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,14.0,28103.0,16,03-19-2020,Brunssum
 4.0,14.0,28103.0,15,03-18-2020,Brunssum
 2.0,7.0,28103.0,14,03-17-2020,Brunssum
+6.0,39.0,15192.0,21,03-24-2020,Bunnik
 4.0,26.0,15192.0,20,03-23-2020,Bunnik
 3.0,20.0,15192.0,19,03-22-2020,Bunnik
 3.0,20.0,15192.0,18,03-21-2020,Bunnik
@@ -731,6 +789,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,7.0,15192.0,16,03-19-2020,Bunnik
 0.0,0.0,15192.0,15,03-18-2020,Bunnik
 0.0,0.0,15192.0,14,03-17-2020,Bunnik
+1.0,5.0,21576.0,21,03-24-2020,Bunschoten
 0.0,0.0,21576.0,20,03-23-2020,Bunschoten
 0.0,0.0,21576.0,19,03-22-2020,Bunschoten
 0.0,0.0,21576.0,18,03-21-2020,Bunschoten
@@ -738,6 +797,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,21576.0,16,03-19-2020,Bunschoten
 0.0,0.0,21576.0,15,03-18-2020,Bunschoten
 0.0,0.0,21576.0,14,03-17-2020,Bunschoten
+6.0,23.0,26568.0,21,03-24-2020,Buren
 5.0,19.0,26568.0,20,03-23-2020,Buren
 5.0,19.0,26568.0,19,03-22-2020,Buren
 5.0,19.0,26568.0,18,03-21-2020,Buren
@@ -750,6 +810,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,26568.0,11,03-14-2020,Buren
 2.0,8.0,26568.0,10,03-13-2020,Buren
 1.0,4.0,26568.0,09,03-12-2020,Buren
+13.0,19.0,66818.0,21,03-24-2020,Capelle aan den IJssel
 7.0,10.0,66818.0,20,03-23-2020,Capelle aan den IJssel
 7.0,10.0,66818.0,19,03-22-2020,Capelle aan den IJssel
 3.0,4.0,66818.0,18,03-21-2020,Capelle aan den IJssel
@@ -757,6 +818,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,3.0,66818.0,16,03-19-2020,Capelle aan den IJssel
 1.0,1.0,66818.0,15,03-18-2020,Capelle aan den IJssel
 1.0,1.0,66818.0,14,03-17-2020,Capelle aan den IJssel
+10.0,28.0,35772.0,21,03-24-2020,Castricum
 8.0,22.0,35772.0,20,03-23-2020,Castricum
 8.0,22.0,35772.0,19,03-22-2020,Castricum
 7.0,20.0,35772.0,18,03-21-2020,Castricum
@@ -767,6 +829,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,14.0,35772.0,12,03-16-2020,Castricum
 5.0,14.0,35772.0,13,03-16-2020,Castricum
 4.0,11.0,35772.0,11,03-14-2020,Castricum
+15.0,42.0,35483.0,21,03-24-2020,Coevorden
 14.0,39.0,35483.0,20,03-23-2020,Coevorden
 14.0,39.0,35483.0,19,03-22-2020,Coevorden
 14.0,39.0,35483.0,18,03-21-2020,Coevorden
@@ -788,6 +851,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,8.0,35483.0,02,03-05-2020,Coevorden
 2.0,6.0,35483.0,01,03-04-2020,Coevorden
 2.0,6.0,35483.0,00,03-03-2020,Coevorden
+23.0,113.0,20440.0,21,03-24-2020,Cranendonck
 19.0,93.0,20440.0,20,03-23-2020,Cranendonck
 13.0,64.0,20440.0,19,03-22-2020,Cranendonck
 11.0,54.0,20440.0,18,03-21-2020,Cranendonck
@@ -801,6 +865,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,10.0,20440.0,10,03-13-2020,Cranendonck
 1.0,5.0,20440.0,09,03-12-2020,Cranendonck
 1.0,5.0,20440.0,08,03-11-2020,Cranendonck
+6.0,24.0,24931.0,21,03-24-2020,Cuijk
 5.0,20.0,24931.0,20,03-23-2020,Cuijk
 4.0,16.0,24931.0,19,03-22-2020,Cuijk
 4.0,16.0,24931.0,18,03-21-2020,Cuijk
@@ -814,6 +879,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,24931.0,10,03-13-2020,Cuijk
 1.0,4.0,24931.0,09,03-12-2020,Cuijk
 1.0,4.0,24931.0,08,03-11-2020,Cuijk
+8.0,28.0,28555.0,21,03-24-2020,Culemborg
 5.0,18.0,28555.0,20,03-23-2020,Culemborg
 5.0,18.0,28555.0,19,03-22-2020,Culemborg
 5.0,18.0,28555.0,18,03-21-2020,Culemborg
@@ -833,6 +899,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,28555.0,04,03-07-2020,Culemborg
 1.0,4.0,28555.0,03,03-06-2020,Culemborg
 1.0,4.0,28555.0,02,03-05-2020,Culemborg
+11.0,39.0,28499.0,21,03-24-2020,Dalfsen
 9.0,32.0,28499.0,20,03-23-2020,Dalfsen
 8.0,28.0,28499.0,19,03-22-2020,Dalfsen
 5.0,18.0,28499.0,18,03-21-2020,Dalfsen
@@ -842,6 +909,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,28499.0,14,03-17-2020,Dalfsen
 1.0,4.0,28499.0,12,03-16-2020,Dalfsen
 1.0,4.0,28499.0,13,03-16-2020,Dalfsen
+0.0,0.0,18923.0,21,03-24-2020,Dantumadiel
 0.0,0.0,18923.0,20,03-23-2020,Dantumadiel
 0.0,0.0,18923.0,19,03-22-2020,Dantumadiel
 0.0,0.0,18923.0,18,03-21-2020,Dantumadiel
@@ -849,6 +917,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,18923.0,16,03-19-2020,Dantumadiel
 0.0,0.0,18923.0,15,03-18-2020,Dantumadiel
 0.0,0.0,18923.0,14,03-17-2020,Dantumadiel
+27.0,63.0,42824.0,21,03-24-2020,De Bilt
 23.0,54.0,42824.0,20,03-23-2020,De Bilt
 20.0,47.0,42824.0,19,03-22-2020,De Bilt
 19.0,44.0,42824.0,18,03-21-2020,De Bilt
@@ -868,6 +937,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 6.0,14.0,42824.0,04,03-07-2020,De Bilt
 3.0,7.0,42824.0,03,03-06-2020,De Bilt
 2.0,5.0,42824.0,02,03-05-2020,De Bilt
+8.0,16.0,51430.0,21,03-24-2020,De Fryske Marren
 8.0,16.0,51430.0,20,03-23-2020,De Fryske Marren
 8.0,16.0,51430.0,19,03-22-2020,De Fryske Marren
 8.0,16.0,51430.0,18,03-21-2020,De Fryske Marren
@@ -880,6 +950,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,51430.0,11,03-14-2020,De Fryske Marren
 2.0,4.0,51430.0,10,03-13-2020,De Fryske Marren
 1.0,2.0,51430.0,09,03-12-2020,De Fryske Marren
+8.0,18.0,44059.0,21,03-24-2020,De Ronde Venen
 6.0,14.0,44059.0,20,03-23-2020,De Ronde Venen
 4.0,9.0,44059.0,19,03-22-2020,De Ronde Venen
 3.0,7.0,44059.0,18,03-21-2020,De Ronde Venen
@@ -888,6 +959,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,44059.0,15,03-18-2020,De Ronde Venen
 2.0,5.0,44059.0,14,03-17-2020,De Ronde Venen
 2.0,5.0,44059.0,13,03-16-2020,De Ronde Venen
+3.0,12.0,24110.0,21,03-24-2020,De Wolden
 3.0,12.0,24110.0,20,03-23-2020,De Wolden
 3.0,12.0,24110.0,19,03-22-2020,De Wolden
 3.0,12.0,24110.0,18,03-21-2020,De Wolden
@@ -898,6 +970,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24110.0,12,03-16-2020,De Wolden
 1.0,4.0,24110.0,13,03-16-2020,De Wolden
 1.0,4.0,24110.0,11,03-14-2020,De Wolden
+17.0,16.0,103163.0,21,03-24-2020,Delft
 16.0,16.0,103163.0,20,03-23-2020,Delft
 12.0,12.0,103163.0,19,03-22-2020,Delft
 11.0,11.0,103163.0,18,03-21-2020,Delft
@@ -919,6 +992,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,103163.0,02,03-05-2020,Delft
 1.0,1.0,103163.0,01,03-04-2020,Delft
 1.0,1.0,103163.0,00,03-03-2020,Delft
+1.0,4.0,24716.0,21,03-24-2020,Delfzijl
 1.0,4.0,24716.0,20,03-23-2020,Delfzijl
 0.0,0.0,24716.0,19,03-22-2020,Delfzijl
 0.0,0.0,24716.0,18,03-21-2020,Delfzijl
@@ -926,6 +1000,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,24716.0,16,03-19-2020,Delfzijl
 0.0,0.0,24716.0,15,03-18-2020,Delfzijl
 0.0,0.0,24716.0,14,03-17-2020,Delfzijl
+5.0,9.0,55604.0,21,03-24-2020,Den Helder
 4.0,7.0,55604.0,20,03-23-2020,Den Helder
 3.0,5.0,55604.0,19,03-22-2020,Den Helder
 3.0,5.0,55604.0,18,03-21-2020,Den Helder
@@ -939,6 +1014,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,55604.0,10,03-13-2020,Den Helder
 1.0,2.0,55604.0,09,03-12-2020,Den Helder
 1.0,2.0,55604.0,08,03-11-2020,Den Helder
+25.0,77.0,32362.0,21,03-24-2020,Deurne
 22.0,68.0,32362.0,20,03-23-2020,Deurne
 22.0,68.0,32362.0,19,03-22-2020,Deurne
 19.0,59.0,32362.0,18,03-21-2020,Deurne
@@ -955,6 +1031,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,32362.0,07,03-10-2020,Deurne
 1.0,3.0,32362.0,06,03-09-2020,Deurne
 1.0,3.0,32362.0,05,03-08-2020,Deurne
+20.0,20.0,99957.0,21,03-24-2020,Deventer
 17.0,17.0,99957.0,20,03-23-2020,Deventer
 16.0,16.0,99957.0,19,03-22-2020,Deventer
 16.0,16.0,99957.0,18,03-21-2020,Deventer
@@ -964,6 +1041,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,4.0,99957.0,14,03-17-2020,Deventer
 1.0,1.0,99957.0,12,03-16-2020,Deventer
 2.0,2.0,99957.0,13,03-16-2020,Deventer
+4.0,14.0,29196.0,21,03-24-2020,Diemen
 4.0,14.0,29196.0,20,03-23-2020,Diemen
 4.0,14.0,29196.0,19,03-22-2020,Diemen
 3.0,10.0,29196.0,18,03-21-2020,Diemen
@@ -985,6 +1063,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,29196.0,02,03-05-2020,Diemen
 2.0,7.0,29196.0,01,03-04-2020,Diemen
 3.0,10.0,29196.0,00,03-03-2020,Diemen
+17.0,65.0,26350.0,21,03-24-2020,Dinkelland
 15.0,57.0,26350.0,20,03-23-2020,Dinkelland
 14.0,53.0,26350.0,19,03-22-2020,Dinkelland
 13.0,49.0,26350.0,18,03-21-2020,Dinkelland
@@ -1002,6 +1081,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,26350.0,06,03-09-2020,Dinkelland
 2.0,8.0,26350.0,05,03-08-2020,Dinkelland
 1.0,4.0,26350.0,04,03-07-2020,Dinkelland
+4.0,36.0,11148.0,21,03-24-2020,Doesburg
 4.0,36.0,11148.0,20,03-23-2020,Doesburg
 4.0,36.0,11148.0,19,03-22-2020,Doesburg
 3.0,27.0,11148.0,18,03-21-2020,Doesburg
@@ -1011,6 +1091,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,9.0,11148.0,14,03-17-2020,Doesburg
 1.0,9.0,11148.0,12,03-16-2020,Doesburg
 1.0,9.0,11148.0,13,03-16-2020,Doesburg
+8.0,14.0,57555.0,21,03-24-2020,Doetinchem
 6.0,10.0,57555.0,20,03-23-2020,Doetinchem
 5.0,9.0,57555.0,19,03-22-2020,Doetinchem
 5.0,9.0,57555.0,18,03-21-2020,Doetinchem
@@ -1018,6 +1099,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,5.0,57555.0,16,03-19-2020,Doetinchem
 0.0,0.0,57555.0,15,03-18-2020,Doetinchem
 0.0,0.0,57555.0,14,03-17-2020,Doetinchem
+4.0,15.0,26051.0,21,03-24-2020,Dongen
 2.0,8.0,26051.0,20,03-23-2020,Dongen
 2.0,8.0,26051.0,19,03-22-2020,Dongen
 2.0,8.0,26051.0,18,03-21-2020,Dongen
@@ -1037,6 +1119,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,26051.0,04,03-07-2020,Dongen
 1.0,4.0,26051.0,03,03-06-2020,Dongen
 1.0,4.0,26051.0,02,03-05-2020,Dongen
+23.0,19.0,118654.0,21,03-24-2020,Dordrecht
 17.0,14.0,118654.0,20,03-23-2020,Dordrecht
 13.0,11.0,118654.0,19,03-22-2020,Dordrecht
 12.0,10.0,118654.0,18,03-21-2020,Dordrecht
@@ -1048,6 +1131,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,118654.0,13,03-16-2020,Dordrecht
 1.0,1.0,118654.0,11,03-14-2020,Dordrecht
 1.0,1.0,118654.0,10,03-13-2020,Dordrecht
+3.0,15.0,19597.0,21,03-24-2020,Drechterland
 2.0,10.0,19597.0,20,03-23-2020,Drechterland
 2.0,10.0,19597.0,19,03-22-2020,Drechterland
 2.0,10.0,19597.0,18,03-21-2020,Drechterland
@@ -1055,6 +1139,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,19597.0,16,03-19-2020,Drechterland
 0.0,0.0,19597.0,15,03-18-2020,Drechterland
 0.0,0.0,19597.0,14,03-17-2020,Drechterland
+17.0,63.0,27150.0,21,03-24-2020,Drimmelen
 16.0,59.0,27150.0,20,03-23-2020,Drimmelen
 14.0,52.0,27150.0,19,03-22-2020,Drimmelen
 14.0,52.0,27150.0,18,03-21-2020,Drimmelen
@@ -1068,6 +1153,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,18.0,27150.0,10,03-13-2020,Drimmelen
 3.0,11.0,27150.0,09,03-12-2020,Drimmelen
 1.0,4.0,27150.0,08,03-11-2020,Drimmelen
+11.0,27.0,40815.0,21,03-24-2020,Dronten
 11.0,27.0,40815.0,20,03-23-2020,Dronten
 10.0,25.0,40815.0,19,03-22-2020,Dronten
 11.0,27.0,40815.0,18,03-21-2020,Dronten
@@ -1079,6 +1165,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 7.0,17.0,40815.0,13,03-16-2020,Dronten
 3.0,7.0,40815.0,11,03-14-2020,Dronten
 2.0,5.0,40815.0,10,03-13-2020,Dronten
+6.0,32.0,18797.0,21,03-24-2020,Druten
 6.0,32.0,18797.0,20,03-23-2020,Druten
 5.0,27.0,18797.0,19,03-22-2020,Druten
 5.0,27.0,18797.0,18,03-21-2020,Druten
@@ -1090,6 +1177,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,27.0,18797.0,13,03-16-2020,Druten
 3.0,16.0,18797.0,11,03-14-2020,Druten
 1.0,5.0,18797.0,10,03-13-2020,Druten
+2.0,8.0,25332.0,21,03-24-2020,Duiven
 2.0,8.0,25332.0,20,03-23-2020,Duiven
 2.0,8.0,25332.0,19,03-22-2020,Duiven
 2.0,8.0,25332.0,18,03-21-2020,Duiven
@@ -1101,6 +1189,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,25332.0,13,03-16-2020,Duiven
 1.0,4.0,25332.0,11,03-14-2020,Duiven
 1.0,4.0,25332.0,10,03-13-2020,Duiven
+15.0,47.0,31638.0,21,03-24-2020,Echt-Susteren
 14.0,44.0,31638.0,20,03-23-2020,Echt-Susteren
 12.0,38.0,31638.0,19,03-22-2020,Echt-Susteren
 11.0,35.0,31638.0,18,03-21-2020,Echt-Susteren
@@ -1108,6 +1197,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 6.0,19.0,31638.0,16,03-19-2020,Echt-Susteren
 6.0,19.0,31638.0,15,03-18-2020,Echt-Susteren
 2.0,6.0,31638.0,14,03-17-2020,Echt-Susteren
+7.0,19.0,36099.0,21,03-24-2020,Edam-Volendam
 6.0,17.0,36099.0,20,03-23-2020,Edam-Volendam
 5.0,14.0,36099.0,19,03-22-2020,Edam-Volendam
 4.0,11.0,36099.0,18,03-21-2020,Edam-Volendam
@@ -1115,6 +1205,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,8.0,36099.0,16,03-19-2020,Edam-Volendam
 0.0,0.0,36099.0,15,03-18-2020,Edam-Volendam
 0.0,0.0,36099.0,14,03-17-2020,Edam-Volendam
+22.0,19.0,115710.0,21,03-24-2020,Ede
 21.0,18.0,115710.0,20,03-23-2020,Ede
 16.0,14.0,115710.0,19,03-22-2020,Ede
 13.0,11.0,115710.0,18,03-21-2020,Ede
@@ -1124,6 +1215,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,2.0,115710.0,14,03-17-2020,Ede
 1.0,1.0,115710.0,12,03-16-2020,Ede
 2.0,2.0,115710.0,13,03-16-2020,Ede
+1.0,11.0,9113.0,21,03-24-2020,Eemnes
 1.0,11.0,9113.0,20,03-23-2020,Eemnes
 1.0,11.0,9113.0,19,03-22-2020,Eemnes
 1.0,11.0,9113.0,18,03-21-2020,Eemnes
@@ -1131,6 +1223,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,11.0,9113.0,16,03-19-2020,Eemnes
 1.0,11.0,9113.0,15,03-18-2020,Eemnes
 0.0,0.0,9113.0,14,03-17-2020,Eemnes
+13.0,68.0,19110.0,21,03-24-2020,Eersel
 10.0,52.0,19110.0,20,03-23-2020,Eersel
 9.0,47.0,19110.0,19,03-22-2020,Eersel
 7.0,37.0,19110.0,18,03-21-2020,Eersel
@@ -1143,6 +1236,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,10.0,19110.0,11,03-14-2020,Eersel
 1.0,5.0,19110.0,10,03-13-2020,Eersel
 1.0,5.0,19110.0,09,03-12-2020,Eersel
+15.0,58.0,25658.0,21,03-24-2020,Eijsden-Margraten
 7.0,27.0,25658.0,20,03-23-2020,Eijsden-Margraten
 6.0,23.0,25658.0,19,03-22-2020,Eijsden-Margraten
 6.0,23.0,25658.0,18,03-21-2020,Eijsden-Margraten
@@ -1153,6 +1247,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,12.0,25658.0,12,03-16-2020,Eijsden-Margraten
 4.0,16.0,25658.0,13,03-16-2020,Eijsden-Margraten
 1.0,4.0,25658.0,11,03-14-2020,Eijsden-Margraten
+68.0,29.0,231642.0,21,03-24-2020,Eindhoven
 55.0,24.0,231642.0,20,03-23-2020,Eindhoven
 46.0,20.0,231642.0,19,03-22-2020,Eindhoven
 35.0,15.0,231642.0,18,03-21-2020,Eindhoven
@@ -1174,6 +1269,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,1.0,231642.0,02,03-05-2020,Eindhoven
 1.0,0.0,231642.0,01,03-04-2020,Eindhoven
 1.0,0.0,231642.0,00,03-03-2020,Eindhoven
+4.0,17.0,23086.0,21,03-24-2020,Elburg
 4.0,17.0,23086.0,20,03-23-2020,Elburg
 3.0,13.0,23086.0,19,03-22-2020,Elburg
 2.0,9.0,23086.0,18,03-21-2020,Elburg
@@ -1185,6 +1281,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,23086.0,13,03-16-2020,Elburg
 1.0,4.0,23086.0,11,03-14-2020,Elburg
 1.0,4.0,23086.0,10,03-13-2020,Elburg
+7.0,7.0,107113.0,21,03-24-2020,Emmen
 6.0,6.0,107113.0,20,03-23-2020,Emmen
 4.0,4.0,107113.0,19,03-22-2020,Emmen
 4.0,4.0,107113.0,18,03-21-2020,Emmen
@@ -1201,6 +1298,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,107113.0,07,03-10-2020,Emmen
 1.0,1.0,107113.0,06,03-09-2020,Emmen
 1.0,1.0,107113.0,05,03-08-2020,Emmen
+10.0,54.0,18507.0,21,03-24-2020,Enkhuizen
 8.0,43.0,18507.0,20,03-23-2020,Enkhuizen
 7.0,38.0,18507.0,19,03-22-2020,Enkhuizen
 6.0,32.0,18507.0,18,03-21-2020,Enkhuizen
@@ -1209,6 +1307,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,18507.0,15,03-18-2020,Enkhuizen
 1.0,5.0,18507.0,14,03-17-2020,Enkhuizen
 1.0,5.0,18507.0,13,03-16-2020,Enkhuizen
+20.0,13.0,158986.0,21,03-24-2020,Enschede
 20.0,13.0,158986.0,20,03-23-2020,Enschede
 18.0,11.0,158986.0,19,03-22-2020,Enschede
 16.0,10.0,158986.0,18,03-21-2020,Enschede
@@ -1222,6 +1321,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,2.0,158986.0,10,03-13-2020,Enschede
 3.0,2.0,158986.0,09,03-12-2020,Enschede
 1.0,1.0,158986.0,08,03-11-2020,Enschede
+13.0,39.0,33145.0,21,03-24-2020,Epe
 10.0,30.0,33145.0,20,03-23-2020,Epe
 8.0,24.0,33145.0,19,03-22-2020,Epe
 6.0,18.0,33145.0,18,03-21-2020,Epe
@@ -1230,6 +1330,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,12.0,33145.0,15,03-18-2020,Epe
 2.0,6.0,33145.0,14,03-17-2020,Epe
 2.0,6.0,33145.0,13,03-16-2020,Epe
+14.0,52.0,26858.0,21,03-24-2020,Ermelo
 13.0,48.0,26858.0,20,03-23-2020,Ermelo
 13.0,48.0,26858.0,19,03-22-2020,Ermelo
 11.0,41.0,26858.0,18,03-21-2020,Ermelo
@@ -1244,6 +1345,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,11.0,26858.0,09,03-12-2020,Ermelo
 1.0,4.0,26858.0,08,03-11-2020,Ermelo
 1.0,4.0,26858.0,07,03-10-2020,Ermelo
+24.0,55.0,43774.0,21,03-24-2020,Etten-Leur
 24.0,55.0,43774.0,20,03-23-2020,Etten-Leur
 20.0,46.0,43774.0,19,03-22-2020,Etten-Leur
 18.0,41.0,43774.0,18,03-21-2020,Etten-Leur
@@ -1259,6 +1361,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,11.0,43774.0,08,03-11-2020,Etten-Leur
 3.0,7.0,43774.0,07,03-10-2020,Etten-Leur
 1.0,2.0,43774.0,06,03-09-2020,Etten-Leur
+10.0,46.0,21515.0,21,03-24-2020,Geertruidenberg
 10.0,46.0,21515.0,20,03-23-2020,Geertruidenberg
 8.0,37.0,21515.0,19,03-22-2020,Geertruidenberg
 7.0,33.0,21515.0,18,03-21-2020,Geertruidenberg
@@ -1272,6 +1375,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,21515.0,10,03-13-2020,Geertruidenberg
 1.0,5.0,21515.0,09,03-12-2020,Geertruidenberg
 1.0,5.0,21515.0,08,03-11-2020,Geertruidenberg
+9.0,23.0,39595.0,21,03-24-2020,Geldrop-Mierlo
 8.0,20.0,39595.0,20,03-23-2020,Geldrop-Mierlo
 6.0,15.0,39595.0,19,03-22-2020,Geldrop-Mierlo
 6.0,15.0,39595.0,18,03-21-2020,Geldrop-Mierlo
@@ -1284,6 +1388,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,39595.0,11,03-14-2020,Geldrop-Mierlo
 2.0,5.0,39595.0,10,03-13-2020,Geldrop-Mierlo
 1.0,3.0,39595.0,09,03-12-2020,Geldrop-Mierlo
+64.0,210.0,30447.0,21,03-24-2020,Gemert-Bakel
 56.0,184.0,30447.0,20,03-23-2020,Gemert-Bakel
 50.0,164.0,30447.0,19,03-22-2020,Gemert-Bakel
 42.0,138.0,30447.0,18,03-21-2020,Gemert-Bakel
@@ -1303,6 +1408,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,30447.0,04,03-07-2020,Gemert-Bakel
 1.0,3.0,30447.0,03,03-06-2020,Gemert-Bakel
 1.0,3.0,30447.0,02,03-05-2020,Gemert-Bakel
+7.0,41.0,17071.0,21,03-24-2020,Gennep
 7.0,41.0,17071.0,20,03-23-2020,Gennep
 7.0,41.0,17071.0,19,03-22-2020,Gennep
 5.0,29.0,17071.0,18,03-21-2020,Gennep
@@ -1314,6 +1420,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17071.0,13,03-16-2020,Gennep
 1.0,6.0,17071.0,11,03-14-2020,Gennep
 1.0,6.0,17071.0,10,03-13-2020,Gennep
+16.0,61.0,26431.0,21,03-24-2020,Gilze en Rijen
 13.0,49.0,26431.0,20,03-23-2020,Gilze en Rijen
 12.0,45.0,26431.0,19,03-22-2020,Gilze en Rijen
 7.0,26.0,26431.0,18,03-21-2020,Gilze en Rijen
@@ -1325,6 +1432,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,26431.0,13,03-16-2020,Gilze en Rijen
 1.0,4.0,26431.0,11,03-14-2020,Gilze en Rijen
 1.0,4.0,26431.0,10,03-13-2020,Gilze en Rijen
+43.0,87.0,49611.0,21,03-24-2020,Goeree-Overflakkee
 36.0,73.0,49611.0,20,03-23-2020,Goeree-Overflakkee
 25.0,50.0,49611.0,19,03-22-2020,Goeree-Overflakkee
 16.0,32.0,49611.0,18,03-21-2020,Goeree-Overflakkee
@@ -1336,6 +1444,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,8.0,49611.0,13,03-16-2020,Goeree-Overflakkee
 1.0,2.0,49611.0,11,03-14-2020,Goeree-Overflakkee
 1.0,2.0,49611.0,10,03-13-2020,Goeree-Overflakkee
+4.0,11.0,37653.0,21,03-24-2020,Goes
 3.0,8.0,37653.0,20,03-23-2020,Goes
 3.0,8.0,37653.0,19,03-22-2020,Goes
 3.0,8.0,37653.0,18,03-21-2020,Goes
@@ -1350,6 +1459,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,37653.0,09,03-12-2020,Goes
 2.0,5.0,37653.0,08,03-11-2020,Goes
 1.0,3.0,37653.0,07,03-10-2020,Goes
+16.0,67.0,23793.0,21,03-24-2020,Goirle
 13.0,55.0,23793.0,20,03-23-2020,Goirle
 13.0,55.0,23793.0,19,03-22-2020,Goirle
 12.0,50.0,23793.0,18,03-21-2020,Goirle
@@ -1366,6 +1476,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,17.0,23793.0,07,03-10-2020,Goirle
 4.0,17.0,23793.0,06,03-09-2020,Goirle
 1.0,4.0,23793.0,05,03-08-2020,Goirle
+12.0,21.0,57715.0,21,03-24-2020,Gooise Meren
 11.0,19.0,57715.0,20,03-23-2020,Gooise Meren
 11.0,19.0,57715.0,19,03-22-2020,Gooise Meren
 11.0,19.0,57715.0,18,03-21-2020,Gooise Meren
@@ -1386,6 +1497,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,3.0,57715.0,03,03-06-2020,Gooise Meren
 1.0,2.0,57715.0,02,03-05-2020,Gooise Meren
 1.0,2.0,57715.0,01,03-04-2020,Gooise Meren
+4.0,11.0,36682.0,21,03-24-2020,Gorinchem
 2.0,5.0,36682.0,20,03-23-2020,Gorinchem
 2.0,5.0,36682.0,19,03-22-2020,Gorinchem
 0.0,0.0,36682.0,18,03-21-2020,Gorinchem
@@ -1393,6 +1505,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,36682.0,16,03-19-2020,Gorinchem
 0.0,0.0,36682.0,15,03-18-2020,Gorinchem
 0.0,0.0,36682.0,14,03-17-2020,Gorinchem
+17.0,23.0,73181.0,21,03-24-2020,Gouda
 16.0,22.0,73181.0,20,03-23-2020,Gouda
 15.0,20.0,73181.0,19,03-22-2020,Gouda
 12.0,16.0,73181.0,18,03-21-2020,Gouda
@@ -1407,6 +1520,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,3.0,73181.0,09,03-12-2020,Gouda
 2.0,3.0,73181.0,08,03-11-2020,Gouda
 1.0,1.0,73181.0,07,03-10-2020,Gouda
+11.0,88.0,12483.0,21,03-24-2020,Grave
 11.0,88.0,12483.0,20,03-23-2020,Grave
 10.0,80.0,12483.0,19,03-22-2020,Grave
 6.0,48.0,12483.0,18,03-21-2020,Grave
@@ -1414,6 +1528,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,16.0,12483.0,16,03-19-2020,Grave
 1.0,8.0,12483.0,15,03-18-2020,Grave
 0.0,0.0,12483.0,14,03-17-2020,Grave
+53.0,23.0,231299.0,21,03-24-2020,Groningen
 53.0,23.0,231299.0,20,03-23-2020,Groningen
 46.0,20.0,231299.0,19,03-22-2020,Groningen
 39.0,17.0,231299.0,18,03-21-2020,Groningen
@@ -1426,6 +1541,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,1.0,231299.0,11,03-14-2020,Groningen
 3.0,1.0,231299.0,10,03-13-2020,Groningen
 2.0,1.0,231299.0,09,03-12-2020,Groningen
+4.0,28.0,14246.0,21,03-24-2020,Gulpen-Wittem
 2.0,14.0,14246.0,20,03-23-2020,Gulpen-Wittem
 2.0,14.0,14246.0,19,03-22-2020,Gulpen-Wittem
 2.0,14.0,14246.0,18,03-21-2020,Gulpen-Wittem
@@ -1435,6 +1551,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,14.0,14246.0,14,03-17-2020,Gulpen-Wittem
 1.0,7.0,14246.0,12,03-16-2020,Gulpen-Wittem
 2.0,14.0,14246.0,13,03-16-2020,Gulpen-Wittem
+3.0,12.0,24277.0,21,03-24-2020,Haaksbergen
 3.0,12.0,24277.0,20,03-23-2020,Haaksbergen
 3.0,12.0,24277.0,19,03-22-2020,Haaksbergen
 1.0,4.0,24277.0,18,03-21-2020,Haaksbergen
@@ -1444,6 +1561,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24277.0,14,03-17-2020,Haaksbergen
 1.0,4.0,24277.0,12,03-16-2020,Haaksbergen
 1.0,4.0,24277.0,13,03-16-2020,Haaksbergen
+12.0,85.0,14195.0,21,03-24-2020,Haaren
 12.0,85.0,14195.0,20,03-23-2020,Haaren
 12.0,85.0,14195.0,19,03-22-2020,Haaren
 10.0,70.0,14195.0,18,03-21-2020,Haaren
@@ -1459,6 +1577,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 6.0,42.0,14195.0,08,03-11-2020,Haaren
 2.0,14.0,14195.0,07,03-10-2020,Haaren
 2.0,14.0,14195.0,06,03-09-2020,Haaren
+41.0,25.0,161265.0,21,03-24-2020,Haarlem
 29.0,18.0,161265.0,20,03-23-2020,Haarlem
 27.0,17.0,161265.0,19,03-22-2020,Haarlem
 25.0,16.0,161265.0,18,03-21-2020,Haarlem
@@ -1480,6 +1599,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,161265.0,02,03-05-2020,Haarlem
 1.0,1.0,161265.0,01,03-04-2020,Haarlem
 1.0,1.0,161265.0,00,03-03-2020,Haarlem
+23.0,15.0,154235.0,21,03-24-2020,Haarlemmermeer
 18.0,12.0,154235.0,20,03-23-2020,Haarlemmermeer
 16.0,10.0,154235.0,19,03-22-2020,Haarlemmermeer
 12.0,8.0,154235.0,18,03-21-2020,Haarlemmermeer
@@ -1489,6 +1609,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,3.0,154235.0,14,03-17-2020,Haarlemmermeer
 1.0,1.0,154235.0,12,03-16-2020,Haarlemmermeer
 2.0,1.0,154235.0,13,03-16-2020,Haarlemmermeer
+8.0,26.0,30194.0,21,03-24-2020,Halderberge
 7.0,23.0,30194.0,20,03-23-2020,Halderberge
 7.0,23.0,30194.0,19,03-22-2020,Halderberge
 5.0,17.0,30194.0,18,03-21-2020,Halderberge
@@ -1497,6 +1618,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,30194.0,15,03-18-2020,Halderberge
 2.0,7.0,30194.0,14,03-17-2020,Halderberge
 2.0,7.0,30194.0,13,03-16-2020,Halderberge
+6.0,10.0,60574.0,21,03-24-2020,Hardenberg
 4.0,7.0,60574.0,20,03-23-2020,Hardenberg
 3.0,5.0,60574.0,19,03-22-2020,Hardenberg
 3.0,5.0,60574.0,18,03-21-2020,Hardenberg
@@ -1504,6 +1626,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,60574.0,16,03-19-2020,Hardenberg
 0.0,0.0,60574.0,15,03-18-2020,Hardenberg
 0.0,0.0,60574.0,14,03-17-2020,Hardenberg
+9.0,19.0,47581.0,21,03-24-2020,Harderwijk
 8.0,17.0,47581.0,20,03-23-2020,Harderwijk
 6.0,13.0,47581.0,19,03-22-2020,Harderwijk
 5.0,11.0,47581.0,18,03-21-2020,Harderwijk
@@ -1516,6 +1639,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,47581.0,11,03-14-2020,Harderwijk
 2.0,4.0,47581.0,10,03-13-2020,Harderwijk
 2.0,4.0,47581.0,09,03-12-2020,Harderwijk
+6.0,33.0,18051.0,21,03-24-2020,Hardinxveld-Giessendam
 6.0,33.0,18051.0,20,03-23-2020,Hardinxveld-Giessendam
 6.0,33.0,18051.0,19,03-22-2020,Hardinxveld-Giessendam
 6.0,33.0,18051.0,18,03-21-2020,Hardinxveld-Giessendam
@@ -1536,6 +1660,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,22.0,18051.0,03,03-06-2020,Hardinxveld-Giessendam
 2.0,11.0,18051.0,02,03-05-2020,Hardinxveld-Giessendam
 1.0,6.0,18051.0,01,03-04-2020,Hardinxveld-Giessendam
+3.0,19.0,15758.0,21,03-24-2020,Harlingen
 3.0,19.0,15758.0,20,03-23-2020,Harlingen
 3.0,19.0,15758.0,19,03-22-2020,Harlingen
 3.0,19.0,15758.0,18,03-21-2020,Harlingen
@@ -1544,6 +1669,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,15758.0,15,03-18-2020,Harlingen
 1.0,6.0,15758.0,14,03-17-2020,Harlingen
 1.0,6.0,15758.0,13,03-16-2020,Harlingen
+2.0,16.0,12173.0,21,03-24-2020,Hattem
 1.0,8.0,12173.0,20,03-23-2020,Hattem
 1.0,8.0,12173.0,19,03-22-2020,Hattem
 1.0,8.0,12173.0,18,03-21-2020,Hattem
@@ -1551,6 +1677,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,12173.0,16,03-19-2020,Hattem
 0.0,0.0,12173.0,15,03-18-2020,Hattem
 0.0,0.0,12173.0,14,03-17-2020,Hattem
+7.0,18.0,39164.0,21,03-24-2020,Heemskerk
 5.0,13.0,39164.0,20,03-23-2020,Heemskerk
 5.0,13.0,39164.0,19,03-22-2020,Heemskerk
 5.0,13.0,39164.0,18,03-21-2020,Heemskerk
@@ -1562,6 +1689,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,39164.0,13,03-16-2020,Heemskerk
 1.0,3.0,39164.0,11,03-14-2020,Heemskerk
 1.0,3.0,39164.0,10,03-13-2020,Heemskerk
+16.0,59.0,27286.0,21,03-24-2020,Heemstede
 13.0,48.0,27286.0,20,03-23-2020,Heemstede
 11.0,40.0,27286.0,19,03-22-2020,Heemstede
 11.0,40.0,27286.0,18,03-21-2020,Heemstede
@@ -1578,6 +1706,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,27286.0,07,03-10-2020,Heemstede
 1.0,4.0,27286.0,06,03-09-2020,Heemstede
 1.0,4.0,27286.0,05,03-08-2020,Heemstede
+15.0,81.0,18546.0,21,03-24-2020,Heerde
 13.0,70.0,18546.0,20,03-23-2020,Heerde
 9.0,49.0,18546.0,19,03-22-2020,Heerde
 9.0,49.0,18546.0,18,03-21-2020,Heerde
@@ -1586,6 +1715,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,16.0,18546.0,15,03-18-2020,Heerde
 3.0,16.0,18546.0,14,03-17-2020,Heerde
 2.0,11.0,18546.0,13,03-16-2020,Heerde
+3.0,6.0,50257.0,21,03-24-2020,Heerenveen
 3.0,6.0,50257.0,20,03-23-2020,Heerenveen
 2.0,4.0,50257.0,19,03-22-2020,Heerenveen
 2.0,4.0,50257.0,18,03-21-2020,Heerenveen
@@ -1593,6 +1723,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,50257.0,16,03-19-2020,Heerenveen
 0.0,0.0,50257.0,15,03-18-2020,Heerenveen
 0.0,0.0,50257.0,14,03-17-2020,Heerenveen
+15.0,26.0,56742.0,21,03-24-2020,Heerhugowaard
 10.0,18.0,56742.0,20,03-23-2020,Heerhugowaard
 8.0,14.0,56742.0,19,03-22-2020,Heerhugowaard
 5.0,9.0,56742.0,18,03-21-2020,Heerhugowaard
@@ -1602,6 +1733,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,56742.0,14,03-17-2020,Heerhugowaard
 1.0,2.0,56742.0,12,03-16-2020,Heerhugowaard
 1.0,2.0,56742.0,13,03-16-2020,Heerhugowaard
+46.0,53.0,86832.0,21,03-24-2020,Heerlen
 29.0,33.0,86832.0,20,03-23-2020,Heerlen
 24.0,28.0,86832.0,19,03-22-2020,Heerlen
 19.0,22.0,86832.0,18,03-21-2020,Heerlen
@@ -1615,6 +1747,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,2.0,86832.0,10,03-13-2020,Heerlen
 2.0,2.0,86832.0,09,03-12-2020,Heerlen
 1.0,1.0,86832.0,08,03-11-2020,Heerlen
+7.0,44.0,15964.0,21,03-24-2020,Heeze-Leende
 7.0,44.0,15964.0,20,03-23-2020,Heeze-Leende
 7.0,44.0,15964.0,19,03-22-2020,Heeze-Leende
 4.0,25.0,15964.0,18,03-21-2020,Heeze-Leende
@@ -1628,6 +1761,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,15964.0,10,03-13-2020,Heeze-Leende
 1.0,6.0,15964.0,09,03-12-2020,Heeze-Leende
 1.0,6.0,15964.0,08,03-11-2020,Heeze-Leende
+8.0,34.0,23464.0,21,03-24-2020,Heiloo
 6.0,26.0,23464.0,20,03-23-2020,Heiloo
 6.0,26.0,23464.0,19,03-22-2020,Heiloo
 4.0,17.0,23464.0,18,03-21-2020,Heiloo
@@ -1639,6 +1773,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,13.0,23464.0,13,03-16-2020,Heiloo
 2.0,9.0,23464.0,11,03-14-2020,Heiloo
 2.0,9.0,23464.0,10,03-13-2020,Heiloo
+6.0,17.0,35808.0,21,03-24-2020,Hellendoorn
 5.0,14.0,35808.0,20,03-23-2020,Hellendoorn
 4.0,11.0,35808.0,19,03-22-2020,Hellendoorn
 3.0,8.0,35808.0,18,03-21-2020,Hellendoorn
@@ -1656,6 +1791,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,6.0,35808.0,06,03-09-2020,Hellendoorn
 2.0,6.0,35808.0,05,03-08-2020,Hellendoorn
 1.0,3.0,35808.0,04,03-07-2020,Hellendoorn
+5.0,12.0,40049.0,21,03-24-2020,Hellevoetsluis
 5.0,12.0,40049.0,20,03-23-2020,Hellevoetsluis
 4.0,10.0,40049.0,19,03-22-2020,Hellevoetsluis
 4.0,10.0,40049.0,18,03-21-2020,Hellevoetsluis
@@ -1668,6 +1804,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,40049.0,11,03-14-2020,Hellevoetsluis
 1.0,2.0,40049.0,10,03-13-2020,Hellevoetsluis
 1.0,2.0,40049.0,09,03-12-2020,Hellevoetsluis
+55.0,60.0,91524.0,21,03-24-2020,Helmond
 49.0,54.0,91524.0,20,03-23-2020,Helmond
 38.0,42.0,91524.0,19,03-22-2020,Helmond
 32.0,35.0,91524.0,18,03-21-2020,Helmond
@@ -1689,6 +1826,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,4.0,91524.0,02,03-05-2020,Helmond
 4.0,4.0,91524.0,01,03-04-2020,Helmond
 1.0,1.0,91524.0,00,03-03-2020,Helmond
+2.0,6.0,30966.0,21,03-24-2020,Hendrik-Ido-Ambacht
 2.0,6.0,30966.0,20,03-23-2020,Hendrik-Ido-Ambacht
 1.0,3.0,30966.0,19,03-22-2020,Hendrik-Ido-Ambacht
 0.0,0.0,30966.0,18,03-21-2020,Hendrik-Ido-Ambacht
@@ -1697,6 +1835,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,30966.0,15,03-18-2020,Hendrik-Ido-Ambacht
 0.0,0.0,30966.0,14,03-17-2020,Hendrik-Ido-Ambacht
 3.0,10.0,30966.0,13,03-16-2020,Hengelo
+16.0,20.0,80683.0,21,03-24-2020,Hengelo (O)
 15.0,19.0,80683.0,20,03-23-2020,Hengelo (O)
 15.0,19.0,80683.0,19,03-22-2020,Hengelo (O)
 13.0,16.0,80683.0,18,03-21-2020,Hengelo (O)
@@ -1704,6 +1843,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,5.0,80683.0,16,03-19-2020,Hengelo (O)
 4.0,5.0,80683.0,15,03-18-2020,Hengelo (O)
 3.0,4.0,80683.0,14,03-17-2020,Hengelo (O)
+1.0,2.0,47888.0,21,03-24-2020,Het Hogeland
 1.0,2.0,47888.0,20,03-23-2020,Het Hogeland
 0.0,0.0,47888.0,19,03-22-2020,Het Hogeland
 0.0,0.0,47888.0,18,03-21-2020,Het Hogeland
@@ -1711,6 +1851,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,47888.0,16,03-19-2020,Het Hogeland
 0.0,0.0,47888.0,15,03-18-2020,Het Hogeland
 0.0,0.0,47888.0,14,03-17-2020,Het Hogeland
+11.0,67.0,16486.0,21,03-24-2020,Heumen
 9.0,55.0,16486.0,20,03-23-2020,Heumen
 7.0,42.0,16486.0,19,03-22-2020,Heumen
 7.0,42.0,16486.0,18,03-21-2020,Heumen
@@ -1720,6 +1861,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,18.0,16486.0,14,03-17-2020,Heumen
 2.0,12.0,16486.0,12,03-16-2020,Heumen
 2.0,12.0,16486.0,13,03-16-2020,Heumen
+19.0,43.0,44135.0,21,03-24-2020,Heusden
 16.0,36.0,44135.0,20,03-23-2020,Heusden
 15.0,34.0,44135.0,19,03-22-2020,Heusden
 11.0,25.0,44135.0,18,03-21-2020,Heusden
@@ -1737,6 +1879,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,44135.0,06,03-09-2020,Heusden
 1.0,2.0,44135.0,05,03-08-2020,Heusden
 1.0,2.0,44135.0,04,03-07-2020,Heusden
+3.0,14.0,21966.0,21,03-24-2020,Hillegom
 2.0,9.0,21966.0,20,03-23-2020,Hillegom
 2.0,9.0,21966.0,19,03-22-2020,Hillegom
 2.0,9.0,21966.0,18,03-21-2020,Hillegom
@@ -1744,6 +1887,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,21966.0,16,03-19-2020,Hillegom
 1.0,5.0,21966.0,15,03-18-2020,Hillegom
 0.0,0.0,21966.0,14,03-17-2020,Hillegom
+8.0,52.0,15334.0,21,03-24-2020,Hilvarenbeek
 7.0,46.0,15334.0,20,03-23-2020,Hilvarenbeek
 6.0,39.0,15334.0,19,03-22-2020,Hilvarenbeek
 5.0,33.0,15334.0,18,03-21-2020,Hilvarenbeek
@@ -1757,6 +1901,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,33.0,15334.0,10,03-13-2020,Hilvarenbeek
 3.0,20.0,15334.0,09,03-12-2020,Hilvarenbeek
 1.0,7.0,15334.0,08,03-11-2020,Hilvarenbeek
+7.0,8.0,90238.0,21,03-24-2020,Hilversum
 7.0,8.0,90238.0,20,03-23-2020,Hilversum
 7.0,8.0,90238.0,19,03-22-2020,Hilversum
 7.0,8.0,90238.0,18,03-21-2020,Hilversum
@@ -1764,6 +1909,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,3.0,90238.0,16,03-19-2020,Hilversum
 3.0,3.0,90238.0,15,03-18-2020,Hilversum
 3.0,3.0,90238.0,14,03-17-2020,Hilversum
+31.0,36.0,86656.0,21,03-24-2020,Hoeksche Waard
 23.0,27.0,86656.0,20,03-23-2020,Hoeksche Waard
 21.0,24.0,86656.0,19,03-22-2020,Hoeksche Waard
 17.0,20.0,86656.0,18,03-21-2020,Hoeksche Waard
@@ -1784,6 +1930,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,86656.0,03,03-06-2020,Hoeksche Waard
 1.0,1.0,86656.0,02,03-05-2020,Hoeksche Waard
 1.0,1.0,86656.0,01,03-04-2020,Hoeksche Waard
+5.0,14.0,34940.0,21,03-24-2020,Hof van Twente
 5.0,14.0,34940.0,20,03-23-2020,Hof van Twente
 5.0,14.0,34940.0,19,03-22-2020,Hof van Twente
 4.0,11.0,34940.0,18,03-21-2020,Hof van Twente
@@ -1793,6 +1940,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,34940.0,14,03-17-2020,Hof van Twente
 1.0,3.0,34940.0,12,03-16-2020,Hof van Twente
 1.0,3.0,34940.0,13,03-16-2020,Hof van Twente
+10.0,21.0,47815.0,21,03-24-2020,Hollands Kroon
 8.0,17.0,47815.0,20,03-23-2020,Hollands Kroon
 7.0,15.0,47815.0,19,03-22-2020,Hollands Kroon
 6.0,13.0,47815.0,18,03-21-2020,Hollands Kroon
@@ -1800,6 +1948,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,6.0,47815.0,16,03-19-2020,Hollands Kroon
 1.0,2.0,47815.0,15,03-18-2020,Hollands Kroon
 0.0,0.0,47815.0,14,03-17-2020,Hollands Kroon
+6.0,11.0,55662.0,21,03-24-2020,Hoogeveen
 5.0,9.0,55662.0,20,03-23-2020,Hoogeveen
 5.0,9.0,55662.0,19,03-22-2020,Hoogeveen
 5.0,9.0,55662.0,18,03-21-2020,Hoogeveen
@@ -1812,6 +1961,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,55662.0,11,03-14-2020,Hoogeveen
 1.0,2.0,55662.0,10,03-13-2020,Hoogeveen
 1.0,2.0,55662.0,09,03-12-2020,Hoogeveen
+12.0,16.0,73004.0,21,03-24-2020,Hoorn
 11.0,15.0,73004.0,20,03-23-2020,Hoorn
 9.0,12.0,73004.0,19,03-22-2020,Hoorn
 8.0,11.0,73004.0,18,03-21-2020,Hoorn
@@ -1820,6 +1970,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,73004.0,15,03-18-2020,Hoorn
 1.0,1.0,73004.0,14,03-17-2020,Hoorn
 1.0,1.0,73004.0,13,03-16-2020,Hoorn
+17.0,40.0,42291.0,21,03-24-2020,Horst aan de Maas
 16.0,38.0,42291.0,20,03-23-2020,Horst aan de Maas
 13.0,31.0,42291.0,19,03-22-2020,Horst aan de Maas
 13.0,31.0,42291.0,18,03-21-2020,Horst aan de Maas
@@ -1831,6 +1982,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,12.0,42291.0,13,03-16-2020,Horst aan de Maas
 3.0,7.0,42291.0,11,03-14-2020,Horst aan de Maas
 2.0,5.0,42291.0,10,03-13-2020,Horst aan de Maas
+29.0,58.0,49911.0,21,03-24-2020,Houten
 25.0,50.0,49911.0,20,03-23-2020,Houten
 23.0,46.0,49911.0,19,03-22-2020,Houten
 19.0,38.0,49911.0,18,03-21-2020,Houten
@@ -1852,6 +2004,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 9.0,18.0,49911.0,02,03-05-2020,Houten
 1.0,2.0,49911.0,01,03-04-2020,Houten
 1.0,2.0,49911.0,00,03-03-2020,Houten
+3.0,7.0,41273.0,21,03-24-2020,Huizen
 3.0,7.0,41273.0,20,03-23-2020,Huizen
 3.0,7.0,41273.0,19,03-22-2020,Huizen
 3.0,7.0,41273.0,18,03-21-2020,Huizen
@@ -1868,6 +2021,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,41273.0,07,03-10-2020,Huizen
 1.0,2.0,41273.0,06,03-09-2020,Huizen
 1.0,2.0,41273.0,05,03-08-2020,Huizen
+0.0,0.0,27524.0,21,03-24-2020,Hulst
 0.0,0.0,27524.0,20,03-23-2020,Hulst
 0.0,0.0,27524.0,19,03-22-2020,Hulst
 0.0,0.0,27524.0,18,03-21-2020,Hulst
@@ -1875,6 +2029,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,27524.0,16,03-19-2020,Hulst
 0.0,0.0,27524.0,15,03-18-2020,Hulst
 0.0,0.0,27524.0,14,03-17-2020,Hulst
+16.0,47.0,34160.0,21,03-24-2020,IJsselstein
 16.0,47.0,34160.0,20,03-23-2020,IJsselstein
 13.0,38.0,34160.0,19,03-22-2020,IJsselstein
 11.0,32.0,34160.0,18,03-21-2020,IJsselstein
@@ -1891,6 +2046,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,34160.0,07,03-10-2020,IJsselstein
 1.0,3.0,34160.0,06,03-09-2020,IJsselstein
 1.0,3.0,34160.0,05,03-08-2020,IJsselstein
+4.0,15.0,26866.0,21,03-24-2020,Kaag en Braassem
 2.0,7.0,26866.0,20,03-23-2020,Kaag en Braassem
 2.0,7.0,26866.0,19,03-22-2020,Kaag en Braassem
 1.0,4.0,26866.0,18,03-21-2020,Kaag en Braassem
@@ -1898,6 +2054,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,26866.0,16,03-19-2020,Kaag en Braassem
 0.0,0.0,26866.0,15,03-18-2020,Kaag en Braassem
 0.0,0.0,26866.0,14,03-17-2020,Kaag en Braassem
+20.0,37.0,53779.0,21,03-24-2020,Kampen
 17.0,32.0,53779.0,20,03-23-2020,Kampen
 14.0,26.0,53779.0,19,03-22-2020,Kampen
 12.0,22.0,53779.0,18,03-21-2020,Kampen
@@ -1905,6 +2062,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,53779.0,16,03-19-2020,Kampen
 2.0,4.0,53779.0,15,03-18-2020,Kampen
 1.0,2.0,53779.0,14,03-17-2020,Kampen
+2.0,16.0,12785.0,21,03-24-2020,Kapelle
 2.0,16.0,12785.0,20,03-23-2020,Kapelle
 2.0,16.0,12785.0,19,03-22-2020,Kapelle
 2.0,16.0,12785.0,18,03-21-2020,Kapelle
@@ -1912,6 +2070,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,16.0,12785.0,16,03-19-2020,Kapelle
 2.0,16.0,12785.0,15,03-18-2020,Kapelle
 1.0,8.0,12785.0,14,03-17-2020,Kapelle
+6.0,9.0,65302.0,21,03-24-2020,Katwijk
 6.0,9.0,65302.0,20,03-23-2020,Katwijk
 6.0,9.0,65302.0,19,03-22-2020,Katwijk
 5.0,8.0,65302.0,18,03-21-2020,Katwijk
@@ -1924,6 +2083,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,65302.0,11,03-14-2020,Katwijk
 1.0,2.0,65302.0,10,03-13-2020,Katwijk
 1.0,2.0,65302.0,09,03-12-2020,Katwijk
+17.0,37.0,45642.0,21,03-24-2020,Kerkrade
 8.0,18.0,45642.0,20,03-23-2020,Kerkrade
 8.0,18.0,45642.0,19,03-22-2020,Kerkrade
 6.0,13.0,45642.0,18,03-21-2020,Kerkrade
@@ -1934,6 +2094,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,45642.0,12,03-16-2020,Kerkrade
 2.0,4.0,45642.0,13,03-16-2020,Kerkrade
 1.0,2.0,45642.0,11,03-14-2020,Kerkrade
+4.0,18.0,22738.0,21,03-24-2020,Koggenland
 4.0,18.0,22738.0,20,03-23-2020,Koggenland
 2.0,9.0,22738.0,19,03-22-2020,Koggenland
 1.0,4.0,22738.0,18,03-21-2020,Koggenland
@@ -1944,6 +2105,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,22738.0,12,03-16-2020,Koggenland
 1.0,4.0,22738.0,13,03-16-2020,Koggenland
 1.0,4.0,22738.0,11,03-14-2020,Koggenland
+3.0,10.0,29376.0,21,03-24-2020,Krimpen aan den IJssel
 3.0,10.0,29376.0,20,03-23-2020,Krimpen aan den IJssel
 3.0,10.0,29376.0,19,03-22-2020,Krimpen aan den IJssel
 2.0,7.0,29376.0,18,03-21-2020,Krimpen aan den IJssel
@@ -1956,6 +2118,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,29376.0,11,03-14-2020,Krimpen aan den IJssel
 1.0,3.0,29376.0,10,03-13-2020,Krimpen aan den IJssel
 1.0,3.0,29376.0,09,03-12-2020,Krimpen aan den IJssel
+12.0,21.0,56048.0,21,03-24-2020,Krimpenerwaard
 11.0,20.0,56048.0,20,03-23-2020,Krimpenerwaard
 11.0,20.0,56048.0,19,03-22-2020,Krimpenerwaard
 9.0,16.0,56048.0,18,03-21-2020,Krimpenerwaard
@@ -1972,6 +2135,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,56048.0,07,03-10-2020,Krimpenerwaard
 1.0,2.0,56048.0,06,03-09-2020,Krimpenerwaard
 1.0,2.0,56048.0,05,03-08-2020,Krimpenerwaard
+17.0,76.0,22333.0,21,03-24-2020,Laarbeek
 13.0,58.0,22333.0,20,03-23-2020,Laarbeek
 11.0,49.0,22333.0,19,03-22-2020,Laarbeek
 8.0,36.0,22333.0,18,03-21-2020,Laarbeek
@@ -1983,6 +2147,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,22333.0,13,03-16-2020,Laarbeek
 1.0,4.0,22333.0,11,03-14-2020,Laarbeek
 1.0,4.0,22333.0,10,03-13-2020,Laarbeek
+25.0,161.0,15529.0,21,03-24-2020,Landerd
 23.0,148.0,15529.0,20,03-23-2020,Landerd
 22.0,142.0,15529.0,19,03-22-2020,Landerd
 20.0,129.0,15529.0,18,03-21-2020,Landerd
@@ -1999,6 +2164,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,15529.0,07,03-10-2020,Landerd
 2.0,13.0,15529.0,06,03-09-2020,Landerd
 2.0,13.0,15529.0,05,03-08-2020,Landerd
+18.0,48.0,37591.0,21,03-24-2020,Landgraaf
 11.0,29.0,37591.0,20,03-23-2020,Landgraaf
 10.0,27.0,37591.0,19,03-22-2020,Landgraaf
 9.0,24.0,37591.0,18,03-21-2020,Landgraaf
@@ -2011,6 +2177,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,11.0,37591.0,11,03-14-2020,Landgraaf
 2.0,5.0,37591.0,10,03-13-2020,Landgraaf
 1.0,3.0,37591.0,09,03-12-2020,Landgraaf
+6.0,52.0,11488.0,21,03-24-2020,Landsmeer
 5.0,44.0,11488.0,20,03-23-2020,Landsmeer
 5.0,44.0,11488.0,19,03-22-2020,Landsmeer
 4.0,35.0,11488.0,18,03-21-2020,Landsmeer
@@ -2024,6 +2191,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,17.0,11488.0,10,03-13-2020,Landsmeer
 2.0,17.0,11488.0,09,03-12-2020,Landsmeer
 1.0,9.0,11488.0,04,03-07-2020,Landsmeer
+12.0,43.0,27992.0,21,03-24-2020,Langedijk
 5.0,18.0,27992.0,20,03-23-2020,Langedijk
 4.0,14.0,27992.0,19,03-22-2020,Langedijk
 4.0,14.0,27992.0,18,03-21-2020,Langedijk
@@ -2037,6 +2205,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,11.0,27992.0,10,03-13-2020,Langedijk
 1.0,4.0,27992.0,09,03-12-2020,Langedijk
 1.0,4.0,27992.0,08,03-11-2020,Langedijk
+24.0,39.0,61601.0,21,03-24-2020,Lansingerland
 20.0,32.0,61601.0,20,03-23-2020,Lansingerland
 20.0,32.0,61601.0,19,03-22-2020,Lansingerland
 16.0,26.0,61601.0,18,03-21-2020,Lansingerland
@@ -2055,6 +2224,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,3.0,61601.0,05,03-08-2020,Lansingerland
 2.0,3.0,61601.0,04,03-07-2020,Lansingerland
 1.0,2.0,61601.0,03,03-06-2020,Lansingerland
+3.0,27.0,11195.0,21,03-24-2020,Laren
 0.0,0.0,11195.0,20,03-23-2020,Laren
 0.0,0.0,11195.0,19,03-22-2020,Laren
 0.0,0.0,11195.0,18,03-21-2020,Laren
@@ -2062,6 +2232,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,11195.0,16,03-19-2020,Laren
 0.0,0.0,11195.0,15,03-18-2020,Laren
 0.0,0.0,11195.0,14,03-17-2020,Laren
+10.0,8.0,123107.0,21,03-24-2020,Leeuwarden
 10.0,8.0,123107.0,20,03-23-2020,Leeuwarden
 8.0,6.0,123107.0,19,03-22-2020,Leeuwarden
 8.0,6.0,123107.0,18,03-21-2020,Leeuwarden
@@ -2074,6 +2245,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,123107.0,11,03-14-2020,Leeuwarden
 1.0,1.0,123107.0,10,03-13-2020,Leeuwarden
 1.0,1.0,123107.0,09,03-12-2020,Leeuwarden
+20.0,16.0,124899.0,21,03-24-2020,Leiden
 16.0,13.0,124899.0,20,03-23-2020,Leiden
 16.0,13.0,124899.0,19,03-22-2020,Leiden
 16.0,13.0,124899.0,18,03-21-2020,Leiden
@@ -2088,6 +2260,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,124899.0,09,03-12-2020,Leiden
 1.0,1.0,124899.0,08,03-11-2020,Leiden
 1.0,1.0,124899.0,07,03-10-2020,Leiden
+2.0,7.0,27109.0,21,03-24-2020,Leiderdorp
 2.0,7.0,27109.0,20,03-23-2020,Leiderdorp
 2.0,7.0,27109.0,19,03-22-2020,Leiderdorp
 2.0,7.0,27109.0,18,03-21-2020,Leiderdorp
@@ -2096,6 +2269,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,27109.0,15,03-18-2020,Leiderdorp
 1.0,4.0,27109.0,14,03-17-2020,Leiderdorp
 1.0,4.0,27109.0,13,03-16-2020,Leiderdorp
+13.0,17.0,75425.0,21,03-24-2020,Leidschendam-Voorburg
 10.0,13.0,75425.0,20,03-23-2020,Leidschendam-Voorburg
 10.0,13.0,75425.0,19,03-22-2020,Leidschendam-Voorburg
 9.0,12.0,75425.0,18,03-21-2020,Leidschendam-Voorburg
@@ -2113,6 +2287,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,75425.0,06,03-09-2020,Leidschendam-Voorburg
 1.0,1.0,75425.0,05,03-08-2020,Leidschendam-Voorburg
 1.0,1.0,75425.0,04,03-07-2020,Leidschendam-Voorburg
+24.0,31.0,77893.0,21,03-24-2020,Lelystad
 21.0,27.0,77893.0,20,03-23-2020,Lelystad
 19.0,24.0,77893.0,19,03-22-2020,Lelystad
 15.0,19.0,77893.0,18,03-21-2020,Lelystad
@@ -2126,6 +2301,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,4.0,77893.0,10,03-13-2020,Lelystad
 1.0,1.0,77893.0,09,03-12-2020,Lelystad
 1.0,1.0,77893.0,08,03-11-2020,Lelystad
+26.0,73.0,35681.0,21,03-24-2020,Leudal
 23.0,64.0,35681.0,20,03-23-2020,Leudal
 22.0,62.0,35681.0,19,03-22-2020,Leudal
 20.0,56.0,35681.0,18,03-21-2020,Leudal
@@ -2141,6 +2317,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,8.0,35681.0,08,03-11-2020,Leudal
 2.0,6.0,35681.0,07,03-10-2020,Leudal
 1.0,3.0,35681.0,06,03-09-2020,Leudal
+9.0,30.0,30030.0,21,03-24-2020,Leusden
 7.0,23.0,30030.0,20,03-23-2020,Leusden
 6.0,20.0,30030.0,19,03-22-2020,Leusden
 6.0,20.0,30030.0,18,03-21-2020,Leusden
@@ -2149,6 +2326,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,10.0,30030.0,15,03-18-2020,Leusden
 1.0,3.0,30030.0,14,03-17-2020,Leusden
 1.0,3.0,30030.0,13,03-16-2020,Leusden
+11.0,24.0,46475.0,21,03-24-2020,Lingewaard
 10.0,22.0,46475.0,20,03-23-2020,Lingewaard
 9.0,19.0,46475.0,19,03-22-2020,Lingewaard
 6.0,13.0,46475.0,18,03-21-2020,Lingewaard
@@ -2167,6 +2345,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,46475.0,05,03-08-2020,Lingewaard
 2.0,4.0,46475.0,04,03-07-2020,Lingewaard
 1.0,2.0,46475.0,03,03-06-2020,Lingewaard
+1.0,4.0,22800.0,21,03-24-2020,Lisse
 1.0,4.0,22800.0,20,03-23-2020,Lisse
 1.0,4.0,22800.0,19,03-22-2020,Lisse
 0.0,0.0,22800.0,18,03-21-2020,Lisse
@@ -2174,6 +2353,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,22800.0,16,03-19-2020,Lisse
 0.0,0.0,22800.0,15,03-18-2020,Lisse
 0.0,0.0,22800.0,14,03-17-2020,Lisse
+2.0,6.0,33590.0,21,03-24-2020,Lochem
 2.0,6.0,33590.0,20,03-23-2020,Lochem
 2.0,6.0,33590.0,19,03-22-2020,Lochem
 2.0,6.0,33590.0,18,03-21-2020,Lochem
@@ -2181,6 +2361,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,33590.0,16,03-19-2020,Lochem
 1.0,3.0,33590.0,15,03-18-2020,Lochem
 0.0,0.0,33590.0,14,03-17-2020,Lochem
+20.0,86.0,23327.0,21,03-24-2020,Loon op Zand
 17.0,73.0,23327.0,20,03-23-2020,Loon op Zand
 16.0,69.0,23327.0,19,03-22-2020,Loon op Zand
 14.0,60.0,23327.0,18,03-21-2020,Loon op Zand
@@ -2202,6 +2383,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,21.0,23327.0,02,03-05-2020,Loon op Zand
 5.0,21.0,23327.0,01,03-04-2020,Loon op Zand
 4.0,17.0,23327.0,00,03-03-2020,Loon op Zand
+10.0,69.0,14473.0,21,03-24-2020,Lopik
 9.0,62.0,14473.0,20,03-23-2020,Lopik
 6.0,41.0,14473.0,19,03-22-2020,Lopik
 4.0,28.0,14473.0,18,03-21-2020,Lopik
@@ -2210,6 +2392,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,21.0,14473.0,15,03-18-2020,Lopik
 2.0,14.0,14473.0,14,03-17-2020,Lopik
 1.0,7.0,14473.0,13,03-16-2020,Lopik
+0.0,0.0,9614.0,21,03-24-2020,Loppersum
 0.0,0.0,9614.0,20,03-23-2020,Loppersum
 0.0,0.0,9614.0,19,03-22-2020,Loppersum
 0.0,0.0,9614.0,18,03-21-2020,Loppersum
@@ -2217,6 +2400,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,9614.0,16,03-19-2020,Loppersum
 0.0,0.0,9614.0,15,03-18-2020,Loppersum
 0.0,0.0,9614.0,14,03-17-2020,Loppersum
+1.0,4.0,22622.0,21,03-24-2020,Losser
 1.0,4.0,22622.0,20,03-23-2020,Losser
 1.0,4.0,22622.0,19,03-22-2020,Losser
 1.0,4.0,22622.0,18,03-21-2020,Losser
@@ -2224,6 +2408,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,22622.0,16,03-19-2020,Losser
 0.0,0.0,22622.0,15,03-18-2020,Losser
 0.0,0.0,22622.0,14,03-17-2020,Losser
+3.0,12.0,24693.0,21,03-24-2020,Maasdriel
 2.0,8.0,24693.0,20,03-23-2020,Maasdriel
 2.0,8.0,24693.0,19,03-22-2020,Maasdriel
 2.0,8.0,24693.0,18,03-21-2020,Maasdriel
@@ -2234,6 +2419,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24693.0,07,03-10-2020,Maasdriel
 1.0,4.0,24693.0,06,03-09-2020,Maasdriel
 1.0,4.0,24693.0,05,03-08-2020,Maasdriel
+9.0,38.0,23716.0,21,03-24-2020,Maasgouw
 9.0,38.0,23716.0,20,03-23-2020,Maasgouw
 8.0,34.0,23716.0,19,03-22-2020,Maasgouw
 7.0,30.0,23716.0,18,03-21-2020,Maasgouw
@@ -2244,6 +2430,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,23716.0,12,03-16-2020,Maasgouw
 2.0,8.0,23716.0,13,03-16-2020,Maasgouw
 1.0,4.0,23716.0,11,03-14-2020,Maasgouw
+7.0,21.0,32768.0,21,03-24-2020,Maassluis
 6.0,18.0,32768.0,20,03-23-2020,Maassluis
 5.0,15.0,32768.0,19,03-22-2020,Maassluis
 3.0,9.0,32768.0,18,03-21-2020,Maassluis
@@ -2254,6 +2441,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,32768.0,12,03-16-2020,Maassluis
 1.0,3.0,32768.0,13,03-16-2020,Maassluis
 1.0,3.0,32768.0,11,03-14-2020,Maassluis
+94.0,77.0,121565.0,21,03-24-2020,Maastricht
 60.0,49.0,121565.0,20,03-23-2020,Maastricht
 59.0,49.0,121565.0,19,03-22-2020,Maastricht
 57.0,47.0,121565.0,18,03-21-2020,Maastricht
@@ -2272,6 +2460,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,3.0,121565.0,05,03-08-2020,Maastricht
 3.0,2.0,121565.0,04,03-07-2020,Maastricht
 2.0,2.0,121565.0,03,03-06-2020,Maastricht
+4.0,9.0,44809.0,21,03-24-2020,Medemblik
 4.0,9.0,44809.0,20,03-23-2020,Medemblik
 2.0,4.0,44809.0,19,03-22-2020,Medemblik
 1.0,2.0,44809.0,18,03-21-2020,Medemblik
@@ -2279,6 +2468,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,44809.0,16,03-19-2020,Medemblik
 0.0,0.0,44809.0,15,03-18-2020,Medemblik
 0.0,0.0,44809.0,14,03-17-2020,Medemblik
+8.0,42.0,18923.0,21,03-24-2020,Meerssen
 3.0,16.0,18923.0,20,03-23-2020,Meerssen
 3.0,16.0,18923.0,19,03-22-2020,Meerssen
 2.0,11.0,18923.0,18,03-21-2020,Meerssen
@@ -2287,6 +2477,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,11.0,18923.0,15,03-18-2020,Meerssen
 1.0,5.0,18923.0,14,03-17-2020,Meerssen
 1.0,5.0,18923.0,13,03-16-2020,Meerssen
+139.0,172.0,80815.0,21,03-24-2020,Meierijstad
 127.0,157.0,80815.0,20,03-23-2020,Meierijstad
 119.0,147.0,80815.0,19,03-22-2020,Meierijstad
 95.0,118.0,80815.0,18,03-21-2020,Meierijstad
@@ -2304,6 +2495,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 10.0,12.0,80815.0,06,03-09-2020,Meierijstad
 4.0,5.0,80815.0,05,03-08-2020,Meierijstad
 1.0,1.0,80815.0,04,03-07-2020,Meierijstad
+3.0,9.0,33564.0,21,03-24-2020,Meppel
 3.0,9.0,33564.0,20,03-23-2020,Meppel
 1.0,3.0,33564.0,19,03-22-2020,Meppel
 1.0,3.0,33564.0,18,03-21-2020,Meppel
@@ -2311,6 +2503,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,33564.0,16,03-19-2020,Meppel
 0.0,0.0,33564.0,15,03-18-2020,Meppel
 0.0,0.0,33564.0,14,03-17-2020,Meppel
+6.0,12.0,48544.0,21,03-24-2020,Middelburg
 6.0,12.0,48544.0,20,03-23-2020,Middelburg
 5.0,10.0,48544.0,19,03-22-2020,Middelburg
 4.0,8.0,48544.0,18,03-21-2020,Middelburg
@@ -2319,6 +2512,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,48544.0,15,03-18-2020,Middelburg
 1.0,2.0,48544.0,14,03-17-2020,Middelburg
 1.0,2.0,48544.0,13,03-16-2020,Middelburg
+2.0,10.0,19391.0,21,03-24-2020,Midden-Delfland
 2.0,10.0,19391.0,20,03-23-2020,Midden-Delfland
 2.0,10.0,19391.0,19,03-22-2020,Midden-Delfland
 2.0,10.0,19391.0,18,03-21-2020,Midden-Delfland
@@ -2326,6 +2520,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,19391.0,16,03-19-2020,Midden-Delfland
 0.0,0.0,19391.0,15,03-18-2020,Midden-Delfland
 0.0,0.0,19391.0,14,03-17-2020,Midden-Delfland
+1.0,3.0,33178.0,21,03-24-2020,Midden-Drenthe
 1.0,3.0,33178.0,20,03-23-2020,Midden-Drenthe
 1.0,3.0,33178.0,19,03-22-2020,Midden-Drenthe
 1.0,3.0,33178.0,18,03-21-2020,Midden-Drenthe
@@ -2333,6 +2528,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,33178.0,16,03-19-2020,Midden-Drenthe
 0.0,0.0,33178.0,15,03-18-2020,Midden-Drenthe
 0.0,0.0,33178.0,14,03-17-2020,Midden-Drenthe
+2.0,3.0,60899.0,21,03-24-2020,Midden-Groningen
 2.0,3.0,60899.0,20,03-23-2020,Midden-Groningen
 2.0,3.0,60899.0,19,03-22-2020,Midden-Groningen
 2.0,3.0,60899.0,18,03-21-2020,Midden-Groningen
@@ -2342,6 +2538,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,60899.0,14,03-17-2020,Midden-Groningen
 1.0,2.0,60899.0,12,03-16-2020,Midden-Groningen
 1.0,2.0,60899.0,13,03-16-2020,Midden-Groningen
+5.0,46.0,10891.0,21,03-24-2020,Mill en Sint Hubert
 2.0,18.0,10891.0,20,03-23-2020,Mill en Sint Hubert
 2.0,18.0,10891.0,19,03-22-2020,Mill en Sint Hubert
 2.0,18.0,10891.0,18,03-21-2020,Mill en Sint Hubert
@@ -2351,6 +2548,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,9.0,10891.0,14,03-17-2020,Mill en Sint Hubert
 1.0,9.0,10891.0,12,03-16-2020,Mill en Sint Hubert
 1.0,9.0,10891.0,13,03-16-2020,Mill en Sint Hubert
+4.0,11.0,36961.0,21,03-24-2020,Moerdijk
 3.0,8.0,36961.0,20,03-23-2020,Moerdijk
 3.0,8.0,36961.0,19,03-22-2020,Moerdijk
 3.0,8.0,36961.0,18,03-21-2020,Moerdijk
@@ -2362,6 +2560,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,36961.0,13,03-16-2020,Moerdijk
 1.0,3.0,36961.0,11,03-14-2020,Moerdijk
 1.0,3.0,36961.0,10,03-13-2020,Moerdijk
+13.0,30.0,43858.0,21,03-24-2020,Molenlanden
 11.0,25.0,43858.0,20,03-23-2020,Molenlanden
 11.0,25.0,43858.0,19,03-22-2020,Molenlanden
 11.0,25.0,43858.0,18,03-21-2020,Molenlanden
@@ -2371,6 +2570,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,7.0,43858.0,14,03-17-2020,Molenlanden
 1.0,2.0,43858.0,12,03-16-2020,Molenlanden
 2.0,5.0,43858.0,13,03-16-2020,Molenlanden
+3.0,8.0,36026.0,21,03-24-2020,Montferland
 3.0,8.0,36026.0,20,03-23-2020,Montferland
 2.0,6.0,36026.0,19,03-22-2020,Montferland
 1.0,3.0,36026.0,18,03-21-2020,Montferland
@@ -2378,6 +2578,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,36026.0,16,03-19-2020,Montferland
 1.0,3.0,36026.0,15,03-18-2020,Montferland
 0.0,0.0,36026.0,14,03-17-2020,Montferland
+3.0,21.0,13996.0,21,03-24-2020,Montfoort
 2.0,14.0,13996.0,20,03-23-2020,Montfoort
 0.0,0.0,13996.0,19,03-22-2020,Montfoort
 0.0,0.0,13996.0,18,03-21-2020,Montfoort
@@ -2385,6 +2586,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,13996.0,16,03-19-2020,Montfoort
 0.0,0.0,13996.0,15,03-18-2020,Montfoort
 0.0,0.0,13996.0,14,03-17-2020,Montfoort
+5.0,64.0,7806.0,21,03-24-2020,Mook en Middelaar
 3.0,38.0,7806.0,20,03-23-2020,Mook en Middelaar
 1.0,13.0,7806.0,19,03-22-2020,Mook en Middelaar
 1.0,13.0,7806.0,18,03-21-2020,Mook en Middelaar
@@ -2392,6 +2594,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,13.0,7806.0,16,03-19-2020,Mook en Middelaar
 0.0,0.0,7806.0,15,03-18-2020,Mook en Middelaar
 0.0,0.0,7806.0,14,03-17-2020,Mook en Middelaar
+11.0,46.0,24034.0,21,03-24-2020,Neder-Betuwe
 9.0,37.0,24034.0,20,03-23-2020,Neder-Betuwe
 9.0,37.0,24034.0,19,03-22-2020,Neder-Betuwe
 5.0,21.0,24034.0,18,03-21-2020,Neder-Betuwe
@@ -2407,6 +2610,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24034.0,08,03-11-2020,Neder-Betuwe
 1.0,4.0,24034.0,07,03-10-2020,Neder-Betuwe
 1.0,4.0,24034.0,06,03-09-2020,Neder-Betuwe
+11.0,65.0,17001.0,21,03-24-2020,Nederweert
 9.0,53.0,17001.0,20,03-23-2020,Nederweert
 8.0,47.0,17001.0,19,03-22-2020,Nederweert
 7.0,41.0,17001.0,18,03-21-2020,Nederweert
@@ -2418,6 +2622,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,18.0,17001.0,13,03-16-2020,Nederweert
 3.0,18.0,17001.0,11,03-14-2020,Nederweert
 1.0,6.0,17001.0,10,03-13-2020,Nederweert
+11.0,17.0,63036.0,21,03-24-2020,Nieuwegein
 11.0,17.0,63036.0,20,03-23-2020,Nieuwegein
 9.0,14.0,63036.0,19,03-22-2020,Nieuwegein
 9.0,14.0,63036.0,18,03-21-2020,Nieuwegein
@@ -2427,6 +2632,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,5.0,63036.0,14,03-17-2020,Nieuwegein
 1.0,2.0,63036.0,12,03-16-2020,Nieuwegein
 1.0,2.0,63036.0,13,03-16-2020,Nieuwegein
+4.0,14.0,28628.0,21,03-24-2020,Nieuwkoop
 3.0,10.0,28628.0,20,03-23-2020,Nieuwkoop
 3.0,10.0,28628.0,19,03-22-2020,Nieuwkoop
 2.0,7.0,28628.0,18,03-21-2020,Nieuwkoop
@@ -2439,6 +2645,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,28628.0,11,03-14-2020,Nieuwkoop
 1.0,3.0,28628.0,10,03-13-2020,Nieuwkoop
 1.0,3.0,28628.0,09,03-12-2020,Nieuwkoop
+8.0,19.0,42943.0,21,03-24-2020,Nijkerk
 7.0,16.0,42943.0,20,03-23-2020,Nijkerk
 4.0,9.0,42943.0,19,03-22-2020,Nijkerk
 4.0,9.0,42943.0,18,03-21-2020,Nijkerk
@@ -2447,6 +2654,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,42943.0,15,03-18-2020,Nijkerk
 2.0,5.0,42943.0,14,03-17-2020,Nijkerk
 1.0,2.0,42943.0,13,03-16-2020,Nijkerk
+93.0,53.0,176731.0,21,03-24-2020,Nijmegen
 79.0,45.0,176731.0,20,03-23-2020,Nijmegen
 68.0,38.0,176731.0,19,03-22-2020,Nijmegen
 60.0,34.0,176731.0,18,03-21-2020,Nijmegen
@@ -2465,6 +2673,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,1.0,176731.0,05,03-08-2020,Nijmegen
 2.0,1.0,176731.0,04,03-07-2020,Nijmegen
 1.0,1.0,176731.0,03,03-06-2020,Nijmegen
+17.0,20.0,84797.0,21,03-24-2020,Nissewaard
 15.0,18.0,84797.0,20,03-23-2020,Nissewaard
 15.0,18.0,84797.0,19,03-22-2020,Nissewaard
 12.0,14.0,84797.0,18,03-21-2020,Nissewaard
@@ -2477,6 +2686,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,84797.0,11,03-14-2020,Nissewaard
 1.0,1.0,84797.0,10,03-13-2020,Nissewaard
 1.0,1.0,84797.0,09,03-12-2020,Nissewaard
+3.0,7.0,45181.0,21,03-24-2020,Noardeast-Fryslân
 2.0,4.0,45181.0,20,03-23-2020,Noardeast-Fryslân
 1.0,2.0,45181.0,19,03-22-2020,Noardeast-Fryslân
 1.0,2.0,45181.0,18,03-21-2020,Noardeast-Fryslân
@@ -2484,6 +2694,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,45181.0,15,03-18-2020,Noardeast-Fryslân
 0.0,0.0,45181.0,14,03-17-2020,Noardeast-Fryslân
 1.0,2.0,45181.0,17,03-20-2020,Noardeast-Fryslï¿½n
+1.0,14.0,7308.0,21,03-24-2020,Noord-Beveland
 0.0,0.0,7308.0,20,03-23-2020,Noord-Beveland
 0.0,0.0,7308.0,19,03-22-2020,Noord-Beveland
 0.0,0.0,7308.0,18,03-21-2020,Noord-Beveland
@@ -2491,6 +2702,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,7308.0,16,03-19-2020,Noord-Beveland
 0.0,0.0,7308.0,15,03-18-2020,Noord-Beveland
 0.0,0.0,7308.0,14,03-17-2020,Noord-Beveland
+1.0,3.0,31290.0,21,03-24-2020,Noordenveld
 1.0,3.0,31290.0,20,03-23-2020,Noordenveld
 1.0,3.0,31290.0,19,03-22-2020,Noordenveld
 1.0,3.0,31290.0,18,03-21-2020,Noordenveld
@@ -2499,6 +2711,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,31290.0,15,03-18-2020,Noordenveld
 1.0,3.0,31290.0,14,03-17-2020,Noordenveld
 1.0,3.0,31290.0,13,03-16-2020,Noordenveld
+4.0,9.0,46849.0,21,03-24-2020,Noordoostpolder
 3.0,6.0,46849.0,20,03-23-2020,Noordoostpolder
 3.0,6.0,46849.0,19,03-22-2020,Noordoostpolder
 3.0,6.0,46849.0,18,03-21-2020,Noordoostpolder
@@ -2509,6 +2722,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,46849.0,12,03-16-2020,Noordoostpolder
 2.0,4.0,46849.0,13,03-16-2020,Noordoostpolder
 2.0,4.0,46849.0,11,03-14-2020,Noordoostpolder
+6.0,14.0,42859.0,21,03-24-2020,Noordwijk
 6.0,14.0,42859.0,20,03-23-2020,Noordwijk
 6.0,14.0,42859.0,19,03-22-2020,Noordwijk
 3.0,7.0,42859.0,18,03-21-2020,Noordwijk
@@ -2524,6 +2738,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,42859.0,08,03-11-2020,Noordwijk
 2.0,5.0,42859.0,07,03-10-2020,Noordwijk
 2.0,5.0,42859.0,06,03-09-2020,Noordwijk
+4.0,17.0,23186.0,21,03-24-2020,"Nuenen, Gerwen en Nederwetten"
 4.0,17.0,23186.0,20,03-23-2020,"Nuenen, Gerwen en Nederwetten"
 3.0,13.0,23186.0,19,03-22-2020,"Nuenen, Gerwen en Nederwetten"
 1.0,4.0,23186.0,18,03-21-2020,"Nuenen, Gerwen en Nederwetten"
@@ -2538,6 +2753,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,23186.0,09,03-12-2020,"Nuenen, Gerwen en Nederwetten"
 1.0,4.0,23186.0,08,03-11-2020,"Nuenen, Gerwen en Nederwetten"
 1.0,4.0,23186.0,07,03-10-2020,"Nuenen, Gerwen en Nederwetten"
+22.0,80.0,27481.0,21,03-24-2020,Nunspeet
 17.0,62.0,27481.0,20,03-23-2020,Nunspeet
 13.0,47.0,27481.0,19,03-22-2020,Nunspeet
 9.0,33.0,27481.0,18,03-21-2020,Nunspeet
@@ -2549,6 +2765,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,27481.0,13,03-16-2020,Nunspeet
 1.0,4.0,27481.0,11,03-14-2020,Nunspeet
 1.0,4.0,27481.0,10,03-13-2020,Nunspeet
+8.0,33.0,24426.0,21,03-24-2020,Oegstgeest
 7.0,29.0,24426.0,20,03-23-2020,Oegstgeest
 7.0,29.0,24426.0,19,03-22-2020,Oegstgeest
 7.0,29.0,24426.0,18,03-21-2020,Oegstgeest
@@ -2566,6 +2783,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24426.0,06,03-09-2020,Oegstgeest
 1.0,4.0,24426.0,05,03-08-2020,Oegstgeest
 1.0,4.0,24426.0,04,03-07-2020,Oegstgeest
+4.0,21.0,18623.0,21,03-24-2020,Oirschot
 3.0,16.0,18623.0,20,03-23-2020,Oirschot
 3.0,16.0,18623.0,19,03-22-2020,Oirschot
 1.0,5.0,18623.0,18,03-21-2020,Oirschot
@@ -2574,6 +2792,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,18623.0,15,03-18-2020,Oirschot
 1.0,5.0,18623.0,14,03-17-2020,Oirschot
 1.0,5.0,18623.0,13,03-16-2020,Oirschot
+16.0,61.0,26140.0,21,03-24-2020,Oisterwijk
 16.0,61.0,26140.0,20,03-23-2020,Oisterwijk
 16.0,61.0,26140.0,19,03-22-2020,Oisterwijk
 15.0,57.0,26140.0,18,03-21-2020,Oisterwijk
@@ -2592,6 +2811,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,11.0,26140.0,05,03-08-2020,Oisterwijk
 3.0,11.0,26140.0,04,03-07-2020,Oisterwijk
 1.0,4.0,26140.0,03,03-06-2020,Oisterwijk
+0.0,0.0,38129.0,21,03-24-2020,Oldambt
 0.0,0.0,38129.0,20,03-23-2020,Oldambt
 0.0,0.0,38129.0,19,03-22-2020,Oldambt
 0.0,0.0,38129.0,18,03-21-2020,Oldambt
@@ -2599,6 +2819,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,38129.0,16,03-19-2020,Oldambt
 0.0,0.0,38129.0,15,03-18-2020,Oldambt
 0.0,0.0,38129.0,14,03-17-2020,Oldambt
+8.0,34.0,23598.0,21,03-24-2020,Oldebroek
 7.0,30.0,23598.0,20,03-23-2020,Oldebroek
 7.0,30.0,23598.0,19,03-22-2020,Oldebroek
 6.0,25.0,23598.0,18,03-21-2020,Oldebroek
@@ -2610,6 +2831,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,23598.0,13,03-16-2020,Oldebroek
 1.0,4.0,23598.0,11,03-14-2020,Oldebroek
 1.0,4.0,23598.0,10,03-13-2020,Oldebroek
+8.0,25.0,31840.0,21,03-24-2020,Oldenzaal
 6.0,19.0,31840.0,20,03-23-2020,Oldenzaal
 6.0,19.0,31840.0,19,03-22-2020,Oldenzaal
 6.0,19.0,31840.0,18,03-21-2020,Oldenzaal
@@ -2620,6 +2842,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,31840.0,12,03-16-2020,Oldenzaal
 1.0,3.0,31840.0,13,03-16-2020,Oldenzaal
 1.0,3.0,31840.0,11,03-14-2020,Oldenzaal
+4.0,22.0,18071.0,21,03-24-2020,Olst-Wijhe
 2.0,11.0,18071.0,20,03-23-2020,Olst-Wijhe
 2.0,11.0,18071.0,19,03-22-2020,Olst-Wijhe
 2.0,11.0,18071.0,18,03-21-2020,Olst-Wijhe
@@ -2627,6 +2850,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,18071.0,16,03-19-2020,Olst-Wijhe
 0.0,0.0,18071.0,15,03-18-2020,Olst-Wijhe
 0.0,0.0,18071.0,14,03-17-2020,Olst-Wijhe
+6.0,34.0,17813.0,21,03-24-2020,Ommen
 6.0,34.0,17813.0,20,03-23-2020,Ommen
 4.0,22.0,17813.0,19,03-22-2020,Ommen
 4.0,22.0,17813.0,18,03-21-2020,Ommen
@@ -2637,6 +2861,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17813.0,12,03-16-2020,Ommen
 1.0,6.0,17813.0,13,03-16-2020,Ommen
 1.0,6.0,17813.0,11,03-14-2020,Ommen
+6.0,20.0,29704.0,21,03-24-2020,Oost Gelre
 2.0,7.0,29704.0,20,03-23-2020,Oost Gelre
 2.0,7.0,29704.0,19,03-22-2020,Oost Gelre
 2.0,7.0,29704.0,18,03-21-2020,Oost Gelre
@@ -2644,6 +2869,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,29704.0,16,03-19-2020,Oost Gelre
 0.0,0.0,29704.0,15,03-18-2020,Oost Gelre
 0.0,0.0,29704.0,14,03-17-2020,Oost Gelre
+23.0,41.0,55616.0,21,03-24-2020,Oosterhout
 22.0,40.0,55616.0,20,03-23-2020,Oosterhout
 16.0,29.0,55616.0,19,03-22-2020,Oosterhout
 13.0,23.0,55616.0,18,03-21-2020,Oosterhout
@@ -2656,6 +2882,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,7.0,55616.0,11,03-14-2020,Oosterhout
 3.0,5.0,55616.0,10,03-13-2020,Oosterhout
 1.0,2.0,55616.0,09,03-12-2020,Oosterhout
+0.0,0.0,25497.0,21,03-24-2020,Ooststellingwerf
 0.0,0.0,25497.0,20,03-23-2020,Ooststellingwerf
 0.0,0.0,25497.0,19,03-22-2020,Ooststellingwerf
 0.0,0.0,25497.0,18,03-21-2020,Ooststellingwerf
@@ -2663,6 +2890,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,25497.0,16,03-19-2020,Ooststellingwerf
 0.0,0.0,25497.0,15,03-18-2020,Ooststellingwerf
 0.0,0.0,25497.0,14,03-17-2020,Ooststellingwerf
+5.0,51.0,9757.0,21,03-24-2020,Oostzaan
 5.0,51.0,9757.0,20,03-23-2020,Oostzaan
 4.0,41.0,9757.0,19,03-22-2020,Oostzaan
 3.0,31.0,9757.0,18,03-21-2020,Oostzaan
@@ -2670,6 +2898,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,20.0,9757.0,16,03-19-2020,Oostzaan
 2.0,20.0,9757.0,15,03-18-2020,Oostzaan
 1.0,10.0,9757.0,14,03-17-2020,Oostzaan
+0.0,0.0,11779.0,21,03-24-2020,Opmeer
 0.0,0.0,11779.0,20,03-23-2020,Opmeer
 0.0,0.0,11779.0,19,03-22-2020,Opmeer
 0.0,0.0,11779.0,18,03-21-2020,Opmeer
@@ -2677,6 +2906,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,11779.0,16,03-19-2020,Opmeer
 0.0,0.0,11779.0,15,03-18-2020,Opmeer
 0.0,0.0,11779.0,14,03-17-2020,Opmeer
+3.0,10.0,29723.0,21,03-24-2020,Opsterland
 3.0,10.0,29723.0,20,03-23-2020,Opsterland
 2.0,7.0,29723.0,19,03-22-2020,Opsterland
 2.0,7.0,29723.0,18,03-21-2020,Opsterland
@@ -2691,6 +2921,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,29723.0,09,03-12-2020,Opsterland
 2.0,7.0,29723.0,08,03-11-2020,Opsterland
 2.0,7.0,29723.0,07,03-10-2020,Opsterland
+73.0,80.0,91451.0,21,03-24-2020,Oss
 65.0,71.0,91451.0,20,03-23-2020,Oss
 59.0,65.0,91451.0,19,03-22-2020,Oss
 44.0,48.0,91451.0,18,03-21-2020,Oss
@@ -2712,6 +2943,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,91451.0,02,03-05-2020,Oss
 1.0,1.0,91451.0,01,03-04-2020,Oss
 1.0,1.0,91451.0,00,03-03-2020,Oss
+4.0,10.0,39473.0,21,03-24-2020,Oude IJsselstreek
 4.0,10.0,39473.0,20,03-23-2020,Oude IJsselstreek
 4.0,10.0,39473.0,19,03-22-2020,Oude IJsselstreek
 4.0,10.0,39473.0,18,03-21-2020,Oude IJsselstreek
@@ -2720,6 +2952,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,39473.0,15,03-18-2020,Oude IJsselstreek
 2.0,5.0,39473.0,14,03-17-2020,Oude IJsselstreek
 1.0,3.0,39473.0,13,03-16-2020,Oude IJsselstreek
+7.0,50.0,13916.0,21,03-24-2020,Ouder-Amstel
 5.0,36.0,13916.0,20,03-23-2020,Ouder-Amstel
 4.0,29.0,13916.0,19,03-22-2020,Ouder-Amstel
 4.0,29.0,13916.0,18,03-21-2020,Ouder-Amstel
@@ -2727,6 +2960,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,22.0,13916.0,16,03-19-2020,Ouder-Amstel
 3.0,22.0,13916.0,15,03-18-2020,Ouder-Amstel
 2.0,14.0,13916.0,14,03-17-2020,Ouder-Amstel
+7.0,69.0,10201.0,21,03-24-2020,Oudewater
 4.0,39.0,10201.0,20,03-23-2020,Oudewater
 4.0,39.0,10201.0,19,03-22-2020,Oudewater
 3.0,29.0,10201.0,18,03-21-2020,Oudewater
@@ -2736,6 +2970,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,10.0,10201.0,14,03-17-2020,Oudewater
 1.0,10.0,10201.0,12,03-16-2020,Oudewater
 1.0,10.0,10201.0,13,03-16-2020,Oudewater
+33.0,69.0,47543.0,21,03-24-2020,Overbetuwe
 30.0,63.0,47543.0,20,03-23-2020,Overbetuwe
 22.0,46.0,47543.0,19,03-22-2020,Overbetuwe
 20.0,42.0,47543.0,18,03-21-2020,Overbetuwe
@@ -2746,6 +2981,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 6.0,13.0,47543.0,12,03-16-2020,Overbetuwe
 8.0,17.0,47543.0,13,03-16-2020,Overbetuwe
 4.0,8.0,47543.0,11,03-14-2020,Overbetuwe
+5.0,15.0,32290.0,21,03-24-2020,Papendrecht
 5.0,15.0,32290.0,20,03-23-2020,Papendrecht
 4.0,12.0,32290.0,19,03-22-2020,Papendrecht
 2.0,6.0,32290.0,18,03-21-2020,Papendrecht
@@ -2753,6 +2989,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,32290.0,16,03-19-2020,Papendrecht
 0.0,0.0,32290.0,15,03-18-2020,Papendrecht
 0.0,0.0,32290.0,14,03-17-2020,Papendrecht
+79.0,182.0,43311.0,21,03-24-2020,Peel en Maas
 69.0,159.0,43311.0,20,03-23-2020,Peel en Maas
 64.0,148.0,43311.0,19,03-22-2020,Peel en Maas
 63.0,145.0,43311.0,18,03-21-2020,Peel en Maas
@@ -2767,6 +3004,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,9.0,43311.0,09,03-12-2020,Peel en Maas
 3.0,7.0,43311.0,08,03-11-2020,Peel en Maas
 1.0,2.0,43311.0,07,03-10-2020,Peel en Maas
+2.0,16.0,12214.0,21,03-24-2020,Pekela
 2.0,16.0,12214.0,20,03-23-2020,Pekela
 2.0,16.0,12214.0,19,03-22-2020,Pekela
 2.0,16.0,12214.0,18,03-21-2020,Pekela
@@ -2779,6 +3017,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,8.0,12214.0,11,03-14-2020,Pekela
 1.0,8.0,12214.0,10,03-13-2020,Pekela
 1.0,8.0,12214.0,09,03-12-2020,Pekela
+14.0,26.0,54331.0,21,03-24-2020,Pijnacker-Nootdorp
 12.0,22.0,54331.0,20,03-23-2020,Pijnacker-Nootdorp
 11.0,20.0,54331.0,19,03-22-2020,Pijnacker-Nootdorp
 11.0,20.0,54331.0,18,03-21-2020,Pijnacker-Nootdorp
@@ -2798,6 +3037,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,54331.0,04,03-07-2020,Pijnacker-Nootdorp
 2.0,4.0,54331.0,03,03-06-2020,Pijnacker-Nootdorp
 2.0,4.0,54331.0,02,03-05-2020,Pijnacker-Nootdorp
+23.0,29.0,80117.0,21,03-24-2020,Purmerend
 22.0,27.0,80117.0,20,03-23-2020,Purmerend
 20.0,25.0,80117.0,19,03-22-2020,Purmerend
 14.0,17.0,80117.0,18,03-21-2020,Purmerend
@@ -2811,6 +3051,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,2.0,80117.0,10,03-13-2020,Purmerend
 1.0,1.0,80117.0,09,03-12-2020,Purmerend
 1.0,1.0,80117.0,08,03-11-2020,Purmerend
+3.0,12.0,24198.0,21,03-24-2020,Putten
 3.0,12.0,24198.0,20,03-23-2020,Putten
 3.0,12.0,24198.0,19,03-22-2020,Putten
 3.0,12.0,24198.0,18,03-21-2020,Putten
@@ -2819,6 +3060,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,24198.0,15,03-18-2020,Putten
 2.0,8.0,24198.0,14,03-17-2020,Putten
 2.0,8.0,24198.0,13,03-16-2020,Putten
+6.0,16.0,37511.0,21,03-24-2020,Raalte
 5.0,13.0,37511.0,20,03-23-2020,Raalte
 5.0,13.0,37511.0,19,03-22-2020,Raalte
 3.0,8.0,37511.0,18,03-21-2020,Raalte
@@ -2831,6 +3073,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,37511.0,11,03-14-2020,Raalte
 1.0,3.0,37511.0,10,03-13-2020,Raalte
 1.0,3.0,37511.0,09,03-12-2020,Raalte
+6.0,26.0,22678.0,21,03-24-2020,Reimerswaal
 5.0,22.0,22678.0,20,03-23-2020,Reimerswaal
 5.0,22.0,22678.0,19,03-22-2020,Reimerswaal
 5.0,22.0,22678.0,18,03-21-2020,Reimerswaal
@@ -2843,6 +3086,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,22678.0,11,03-14-2020,Reimerswaal
 1.0,4.0,22678.0,10,03-13-2020,Reimerswaal
 1.0,4.0,22678.0,09,03-12-2020,Reimerswaal
+11.0,35.0,31302.0,21,03-24-2020,Renkum
 10.0,32.0,31302.0,20,03-23-2020,Renkum
 10.0,32.0,31302.0,19,03-22-2020,Renkum
 9.0,29.0,31302.0,18,03-21-2020,Renkum
@@ -2861,6 +3105,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,16.0,31302.0,05,03-08-2020,Renkum
 1.0,3.0,31302.0,04,03-07-2020,Renkum
 1.0,3.0,31302.0,03,03-06-2020,Renkum
+0.0,0.0,5259.0,21,03-24-2020,Renswoude
 0.0,0.0,5259.0,20,03-23-2020,Renswoude
 0.0,0.0,5259.0,19,03-22-2020,Renswoude
 0.0,0.0,5259.0,18,03-21-2020,Renswoude
@@ -2868,6 +3113,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,5259.0,16,03-19-2020,Renswoude
 0.0,0.0,5259.0,15,03-18-2020,Renswoude
 0.0,0.0,5259.0,14,03-17-2020,Renswoude
+1.0,8.0,13060.0,21,03-24-2020,Reusel-De Mierden
 1.0,8.0,13060.0,20,03-23-2020,Reusel-De Mierden
 1.0,8.0,13060.0,19,03-22-2020,Reusel-De Mierden
 0.0,0.0,13060.0,18,03-21-2020,Reusel-De Mierden
@@ -2875,6 +3121,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,13060.0,16,03-19-2020,Reusel-De Mierden
 0.0,0.0,13060.0,15,03-18-2020,Reusel-De Mierden
 0.0,0.0,13060.0,14,03-17-2020,Reusel-De Mierden
+15.0,34.0,43640.0,21,03-24-2020,Rheden
 12.0,27.0,43640.0,20,03-23-2020,Rheden
 10.0,23.0,43640.0,19,03-22-2020,Rheden
 7.0,16.0,43640.0,18,03-21-2020,Rheden
@@ -2889,6 +3136,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,43640.0,09,03-12-2020,Rheden
 1.0,2.0,43640.0,08,03-11-2020,Rheden
 1.0,2.0,43640.0,07,03-10-2020,Rheden
+1.0,5.0,20004.0,21,03-24-2020,Rhenen
 1.0,5.0,20004.0,20,03-23-2020,Rhenen
 0.0,0.0,20004.0,19,03-22-2020,Rhenen
 0.0,0.0,20004.0,18,03-21-2020,Rhenen
@@ -2896,6 +3144,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,20004.0,16,03-19-2020,Rhenen
 0.0,0.0,20004.0,15,03-18-2020,Rhenen
 0.0,0.0,20004.0,14,03-17-2020,Rhenen
+7.0,15.0,46241.0,21,03-24-2020,Ridderkerk
 5.0,11.0,46241.0,20,03-23-2020,Ridderkerk
 5.0,11.0,46241.0,19,03-22-2020,Ridderkerk
 4.0,9.0,46241.0,18,03-21-2020,Ridderkerk
@@ -2913,6 +3162,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,46241.0,06,03-09-2020,Ridderkerk
 1.0,2.0,46241.0,05,03-08-2020,Ridderkerk
 1.0,2.0,46241.0,04,03-07-2020,Ridderkerk
+4.0,10.0,38300.0,21,03-24-2020,Rijssen-Holten
 4.0,10.0,38300.0,20,03-23-2020,Rijssen-Holten
 4.0,10.0,38300.0,19,03-22-2020,Rijssen-Holten
 3.0,8.0,38300.0,18,03-21-2020,Rijssen-Holten
@@ -2920,6 +3170,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,38300.0,16,03-19-2020,Rijssen-Holten
 0.0,0.0,38300.0,15,03-18-2020,Rijssen-Holten
 0.0,0.0,38300.0,14,03-17-2020,Rijssen-Holten
+8.0,15.0,53467.0,21,03-24-2020,Rijswijk
 7.0,13.0,53467.0,20,03-23-2020,Rijswijk
 5.0,9.0,53467.0,19,03-22-2020,Rijswijk
 4.0,7.0,53467.0,18,03-21-2020,Rijswijk
@@ -2928,6 +3179,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,6.0,53467.0,15,03-18-2020,Rijswijk
 2.0,4.0,53467.0,14,03-17-2020,Rijswijk
 1.0,2.0,53467.0,13,03-16-2020,Rijswijk
+10.0,49.0,20615.0,21,03-24-2020,Roerdalen
 7.0,34.0,20615.0,20,03-23-2020,Roerdalen
 6.0,29.0,20615.0,19,03-22-2020,Roerdalen
 4.0,19.0,20615.0,18,03-21-2020,Roerdalen
@@ -2935,6 +3187,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,20615.0,16,03-19-2020,Roerdalen
 1.0,5.0,20615.0,15,03-18-2020,Roerdalen
 0.0,0.0,20615.0,14,03-17-2020,Roerdalen
+26.0,45.0,58209.0,21,03-24-2020,Roermond
 23.0,40.0,58209.0,20,03-23-2020,Roermond
 21.0,36.0,58209.0,19,03-22-2020,Roermond
 18.0,31.0,58209.0,18,03-21-2020,Roermond
@@ -2951,6 +3204,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,58209.0,07,03-10-2020,Roermond
 1.0,2.0,58209.0,06,03-09-2020,Roermond
 1.0,2.0,58209.0,05,03-08-2020,Roermond
+18.0,23.0,77032.0,21,03-24-2020,Roosendaal
 16.0,21.0,77032.0,20,03-23-2020,Roosendaal
 11.0,14.0,77032.0,19,03-22-2020,Roosendaal
 8.0,10.0,77032.0,18,03-21-2020,Roosendaal
@@ -2964,6 +3218,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,3.0,77032.0,10,03-13-2020,Roosendaal
 1.0,1.0,77032.0,09,03-12-2020,Roosendaal
 1.0,1.0,77032.0,08,03-11-2020,Roosendaal
+163.0,25.0,644618.0,21,03-24-2020,Rotterdam
 149.0,23.0,644618.0,20,03-23-2020,Rotterdam
 139.0,22.0,644618.0,19,03-22-2020,Rotterdam
 120.0,19.0,644618.0,18,03-21-2020,Rotterdam
@@ -2985,6 +3240,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,1.0,644618.0,02,03-05-2020,Rotterdam
 3.0,0.0,644618.0,01,03-04-2020,Rotterdam
 1.0,0.0,644618.0,00,03-03-2020,Rotterdam
+2.0,121.0,1654.0,21,03-24-2020,Rozendaal
 2.0,121.0,1654.0,20,03-23-2020,Rozendaal
 2.0,121.0,1654.0,19,03-22-2020,Rozendaal
 2.0,121.0,1654.0,18,03-21-2020,Rozendaal
@@ -2994,6 +3250,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,60.0,1654.0,14,03-17-2020,Rozendaal
 1.0,60.0,1654.0,12,03-16-2020,Rozendaal
 1.0,60.0,1654.0,13,03-16-2020,Rozendaal
+6.0,27.0,22572.0,21,03-24-2020,Rucphen
 6.0,27.0,22572.0,20,03-23-2020,Rucphen
 6.0,27.0,22572.0,19,03-22-2020,Rucphen
 6.0,27.0,22572.0,18,03-21-2020,Rucphen
@@ -3003,6 +3260,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,22572.0,14,03-17-2020,Rucphen
 1.0,4.0,22572.0,12,03-16-2020,Rucphen
 1.0,4.0,22572.0,13,03-16-2020,Rucphen
+10.0,21.0,46553.0,21,03-24-2020,Schagen
 7.0,15.0,46553.0,20,03-23-2020,Schagen
 7.0,15.0,46553.0,19,03-22-2020,Schagen
 7.0,15.0,46553.0,18,03-21-2020,Schagen
@@ -3017,6 +3275,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,46553.0,09,03-12-2020,Schagen
 1.0,2.0,46553.0,08,03-11-2020,Schagen
 1.0,2.0,46553.0,07,03-10-2020,Schagen
+2.0,20.0,9873.0,21,03-24-2020,Scherpenzeel
 2.0,20.0,9873.0,20,03-23-2020,Scherpenzeel
 1.0,10.0,9873.0,19,03-22-2020,Scherpenzeel
 0.0,0.0,9873.0,18,03-21-2020,Scherpenzeel
@@ -3024,6 +3283,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,9873.0,16,03-19-2020,Scherpenzeel
 0.0,0.0,9873.0,15,03-18-2020,Scherpenzeel
 0.0,0.0,9873.0,14,03-17-2020,Scherpenzeel
+10.0,13.0,77999.0,21,03-24-2020,Schiedam
 8.0,10.0,77999.0,20,03-23-2020,Schiedam
 8.0,10.0,77999.0,19,03-22-2020,Schiedam
 6.0,8.0,77999.0,18,03-21-2020,Schiedam
@@ -3033,6 +3293,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,77999.0,14,03-17-2020,Schiedam
 1.0,1.0,77999.0,12,03-16-2020,Schiedam
 1.0,1.0,77999.0,13,03-16-2020,Schiedam
+0.0,0.0,936.0,21,03-24-2020,Schiermonnikoog
 0.0,0.0,936.0,20,03-23-2020,Schiermonnikoog
 0.0,0.0,936.0,19,03-22-2020,Schiermonnikoog
 0.0,0.0,936.0,18,03-21-2020,Schiermonnikoog
@@ -3040,6 +3301,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,936.0,16,03-19-2020,Schiermonnikoog
 0.0,0.0,936.0,15,03-18-2020,Schiermonnikoog
 0.0,0.0,936.0,14,03-17-2020,Schiermonnikoog
+3.0,9.0,33779.0,21,03-24-2020,Schouwen-Duiveland
 3.0,9.0,33779.0,20,03-23-2020,Schouwen-Duiveland
 3.0,9.0,33779.0,19,03-22-2020,Schouwen-Duiveland
 3.0,9.0,33779.0,18,03-21-2020,Schouwen-Duiveland
@@ -3057,6 +3319,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,33779.0,06,03-09-2020,Schouwen-Duiveland
 1.0,3.0,33779.0,05,03-08-2020,Schouwen-Duiveland
 1.0,3.0,33779.0,04,03-07-2020,Schouwen-Duiveland
+7.0,67.0,10516.0,21,03-24-2020,Simpelveld
 5.0,48.0,10516.0,20,03-23-2020,Simpelveld
 5.0,48.0,10516.0,19,03-22-2020,Simpelveld
 5.0,48.0,10516.0,18,03-21-2020,Simpelveld
@@ -3075,6 +3338,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,19.0,10516.0,05,03-08-2020,Simpelveld
 2.0,19.0,10516.0,04,03-07-2020,Simpelveld
 2.0,19.0,10516.0,03,03-06-2020,Simpelveld
+13.0,112.0,11606.0,21,03-24-2020,Sint Anthonis
 13.0,112.0,11606.0,20,03-23-2020,Sint Anthonis
 13.0,112.0,11606.0,19,03-22-2020,Sint Anthonis
 12.0,103.0,11606.0,18,03-21-2020,Sint Anthonis
@@ -3085,6 +3349,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,17.0,11606.0,12,03-16-2020,Sint Anthonis
 3.0,26.0,11606.0,13,03-16-2020,Sint Anthonis
 2.0,17.0,11606.0,11,03-14-2020,Sint Anthonis
+17.0,59.0,28991.0,21,03-24-2020,Sint-Michielsgestel
 14.0,48.0,28991.0,20,03-23-2020,Sint-Michielsgestel
 14.0,48.0,28991.0,19,03-22-2020,Sint-Michielsgestel
 12.0,41.0,28991.0,18,03-21-2020,Sint-Michielsgestel
@@ -3104,6 +3369,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,10.0,28991.0,04,03-07-2020,Sint-Michielsgestel
 2.0,7.0,28991.0,03,03-06-2020,Sint-Michielsgestel
 1.0,3.0,28991.0,02,03-05-2020,Sint-Michielsgestel
+84.0,91.0,92661.0,21,03-24-2020,Sittard-Geleen
 61.0,66.0,92661.0,20,03-23-2020,Sittard-Geleen
 59.0,64.0,92661.0,19,03-22-2020,Sittard-Geleen
 58.0,63.0,92661.0,18,03-21-2020,Sittard-Geleen
@@ -3123,6 +3389,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,4.0,92661.0,04,03-07-2020,Sittard-Geleen
 4.0,4.0,92661.0,03,03-06-2020,Sittard-Geleen
 2.0,2.0,92661.0,02,03-05-2020,Sittard-Geleen
+4.0,16.0,25026.0,21,03-24-2020,Sliedrecht
 3.0,12.0,25026.0,20,03-23-2020,Sliedrecht
 3.0,12.0,25026.0,19,03-22-2020,Sliedrecht
 3.0,12.0,25026.0,18,03-21-2020,Sliedrecht
@@ -3130,6 +3397,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,25026.0,16,03-19-2020,Sliedrecht
 1.0,4.0,25026.0,15,03-18-2020,Sliedrecht
 1.0,4.0,25026.0,14,03-17-2020,Sliedrecht
+5.0,21.0,23386.0,21,03-24-2020,Sluis
 4.0,17.0,23386.0,20,03-23-2020,Sluis
 4.0,17.0,23386.0,19,03-22-2020,Sluis
 3.0,13.0,23386.0,18,03-21-2020,Sluis
@@ -3139,6 +3407,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,9.0,23386.0,14,03-17-2020,Sluis
 1.0,4.0,23386.0,12,03-16-2020,Sluis
 2.0,9.0,23386.0,13,03-16-2020,Sluis
+3.0,5.0,55938.0,21,03-24-2020,Smallingerland
 3.0,5.0,55938.0,20,03-23-2020,Smallingerland
 3.0,5.0,55938.0,19,03-22-2020,Smallingerland
 3.0,5.0,55938.0,18,03-21-2020,Smallingerland
@@ -3152,6 +3421,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,55938.0,10,03-13-2020,Smallingerland
 1.0,2.0,55938.0,09,03-12-2020,Smallingerland
 1.0,2.0,55938.0,08,03-11-2020,Smallingerland
+20.0,43.0,46194.0,21,03-24-2020,Soest
 16.0,35.0,46194.0,20,03-23-2020,Soest
 16.0,35.0,46194.0,19,03-22-2020,Soest
 15.0,32.0,46194.0,18,03-21-2020,Soest
@@ -3171,6 +3441,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 7.0,15.0,46194.0,04,03-07-2020,Soest
 6.0,13.0,46194.0,03,03-06-2020,Soest
 4.0,9.0,46194.0,02,03-05-2020,Soest
+7.0,36.0,19322.0,21,03-24-2020,Someren
 7.0,36.0,19322.0,20,03-23-2020,Someren
 6.0,31.0,19322.0,19,03-22-2020,Someren
 5.0,26.0,19322.0,18,03-21-2020,Someren
@@ -3181,6 +3452,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,19322.0,12,03-16-2020,Someren
 1.0,5.0,19322.0,13,03-16-2020,Someren
 1.0,5.0,19322.0,11,03-14-2020,Someren
+13.0,77.0,16904.0,21,03-24-2020,Son en Breugel
 10.0,59.0,16904.0,20,03-23-2020,Son en Breugel
 10.0,59.0,16904.0,19,03-22-2020,Son en Breugel
 8.0,47.0,16904.0,18,03-21-2020,Son en Breugel
@@ -3194,6 +3466,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,12.0,16904.0,10,03-13-2020,Son en Breugel
 1.0,6.0,16904.0,09,03-12-2020,Son en Breugel
 1.0,6.0,16904.0,08,03-11-2020,Son en Breugel
+0.0,0.0,31789.0,21,03-24-2020,Stadskanaal
 0.0,0.0,31789.0,20,03-23-2020,Stadskanaal
 0.0,0.0,31789.0,19,03-22-2020,Stadskanaal
 0.0,0.0,31789.0,18,03-21-2020,Stadskanaal
@@ -3201,6 +3474,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,31789.0,16,03-19-2020,Stadskanaal
 0.0,0.0,31789.0,15,03-18-2020,Stadskanaal
 0.0,0.0,31789.0,14,03-17-2020,Stadskanaal
+4.0,24.0,17003.0,21,03-24-2020,Staphorst
 4.0,24.0,17003.0,20,03-23-2020,Staphorst
 3.0,18.0,17003.0,19,03-22-2020,Staphorst
 3.0,18.0,17003.0,18,03-21-2020,Staphorst
@@ -3211,6 +3485,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17003.0,12,03-16-2020,Staphorst
 1.0,6.0,17003.0,13,03-16-2020,Staphorst
 1.0,6.0,17003.0,11,03-14-2020,Staphorst
+9.0,41.0,21706.0,21,03-24-2020,Stede Broec
 8.0,37.0,21706.0,20,03-23-2020,Stede Broec
 5.0,23.0,21706.0,19,03-22-2020,Stede Broec
 5.0,23.0,21706.0,18,03-21-2020,Stede Broec
@@ -3219,6 +3494,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,21706.0,15,03-18-2020,Stede Broec
 1.0,5.0,21706.0,14,03-17-2020,Stede Broec
 1.0,5.0,21706.0,13,03-16-2020,Stede Broec
+9.0,36.0,25054.0,21,03-24-2020,Steenbergen
 8.0,32.0,25054.0,20,03-23-2020,Steenbergen
 8.0,32.0,25054.0,19,03-22-2020,Steenbergen
 5.0,20.0,25054.0,18,03-21-2020,Steenbergen
@@ -3228,6 +3504,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,8.0,25054.0,14,03-17-2020,Steenbergen
 1.0,4.0,25054.0,12,03-16-2020,Steenbergen
 2.0,8.0,25054.0,13,03-16-2020,Steenbergen
+5.0,11.0,43940.0,21,03-24-2020,Steenwijkerland
 4.0,9.0,43940.0,20,03-23-2020,Steenwijkerland
 3.0,7.0,43940.0,19,03-22-2020,Steenwijkerland
 3.0,7.0,43940.0,18,03-21-2020,Steenwijkerland
@@ -3235,6 +3512,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,43940.0,16,03-19-2020,Steenwijkerland
 1.0,2.0,43940.0,15,03-18-2020,Steenwijkerland
 1.0,2.0,43940.0,14,03-17-2020,Steenwijkerland
+24.0,96.0,24961.0,21,03-24-2020,Stein
 9.0,36.0,24961.0,20,03-23-2020,Stein
 6.0,24.0,24961.0,19,03-22-2020,Stein
 5.0,20.0,24961.0,18,03-21-2020,Stein
@@ -3248,6 +3526,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24961.0,10,03-13-2020,Stein
 1.0,4.0,24961.0,09,03-12-2020,Stein
 1.0,4.0,24961.0,08,03-11-2020,Stein
+16.0,25.0,64336.0,21,03-24-2020,Stichtse Vecht
 13.0,20.0,64336.0,20,03-23-2020,Stichtse Vecht
 12.0,19.0,64336.0,19,03-22-2020,Stichtse Vecht
 10.0,16.0,64336.0,18,03-21-2020,Stichtse Vecht
@@ -3273,12 +3552,14 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,89710.0,12,03-16-2020,Sï¿½dwest-Fryslï¿½n
 1.0,1.0,89710.0,13,03-16-2020,Sï¿½dwest-Fryslï¿½n
 1.0,1.0,89710.0,11,03-14-2020,Sï¿½dwest-Fryslï¿½n
+6.0,7.0,89710.0,21,03-24-2020,Súdwest-Fryslân
 5.0,6.0,89710.0,20,03-23-2020,Súdwest-Fryslân
 5.0,6.0,89710.0,19,03-22-2020,Súdwest-Fryslân
 4.0,4.0,89710.0,18,03-21-2020,Súdwest-Fryslân
 2.0,2.0,89710.0,16,03-19-2020,Súdwest-Fryslân
 2.0,2.0,89710.0,15,03-18-2020,Súdwest-Fryslân
 1.0,1.0,89710.0,14,03-17-2020,Súdwest-Fryslân
+6.0,11.0,54589.0,21,03-24-2020,Terneuzen
 6.0,11.0,54589.0,20,03-23-2020,Terneuzen
 5.0,9.0,54589.0,19,03-22-2020,Terneuzen
 5.0,9.0,54589.0,18,03-21-2020,Terneuzen
@@ -3289,6 +3570,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,54589.0,12,03-16-2020,Terneuzen
 1.0,2.0,54589.0,13,03-16-2020,Terneuzen
 1.0,2.0,54589.0,11,03-14-2020,Terneuzen
+0.0,0.0,4890.0,21,03-24-2020,Terschelling
 0.0,0.0,4890.0,20,03-23-2020,Terschelling
 0.0,0.0,4890.0,19,03-22-2020,Terschelling
 0.0,0.0,4890.0,18,03-21-2020,Terschelling
@@ -3296,6 +3578,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,4890.0,16,03-19-2020,Terschelling
 0.0,0.0,4890.0,15,03-18-2020,Terschelling
 0.0,0.0,4890.0,14,03-17-2020,Terschelling
+3.0,22.0,13547.0,21,03-24-2020,Texel
 3.0,22.0,13547.0,20,03-23-2020,Texel
 3.0,22.0,13547.0,19,03-22-2020,Texel
 3.0,22.0,13547.0,18,03-21-2020,Texel
@@ -3303,6 +3586,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,15.0,13547.0,16,03-19-2020,Texel
 0.0,0.0,13547.0,15,03-18-2020,Texel
 0.0,0.0,13547.0,14,03-17-2020,Texel
+7.0,19.0,37061.0,21,03-24-2020,Teylingen
 7.0,19.0,37061.0,20,03-23-2020,Teylingen
 7.0,19.0,37061.0,19,03-22-2020,Teylingen
 5.0,13.0,37061.0,18,03-21-2020,Teylingen
@@ -3311,6 +3595,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,37061.0,15,03-18-2020,Teylingen
 2.0,5.0,37061.0,14,03-17-2020,Teylingen
 1.0,3.0,37061.0,13,03-16-2020,Teylingen
+11.0,43.0,25780.0,21,03-24-2020,Tholen
 8.0,31.0,25780.0,20,03-23-2020,Tholen
 7.0,27.0,25780.0,19,03-22-2020,Tholen
 7.0,27.0,25780.0,18,03-21-2020,Tholen
@@ -3320,6 +3605,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,25780.0,14,03-17-2020,Tholen
 1.0,4.0,25780.0,12,03-16-2020,Tholen
 1.0,4.0,25780.0,13,03-16-2020,Tholen
+8.0,19.0,41978.0,21,03-24-2020,Tiel
 6.0,14.0,41978.0,20,03-23-2020,Tiel
 5.0,12.0,41978.0,19,03-22-2020,Tiel
 4.0,10.0,41978.0,18,03-21-2020,Tiel
@@ -3335,6 +3621,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,41978.0,08,03-11-2020,Tiel
 1.0,2.0,41978.0,07,03-10-2020,Tiel
 1.0,2.0,41978.0,06,03-09-2020,Tiel
+211.0,97.0,217259.0,21,03-24-2020,Tilburg
 193.0,89.0,217259.0,20,03-23-2020,Tilburg
 178.0,82.0,217259.0,19,03-22-2020,Tilburg
 154.0,71.0,217259.0,18,03-21-2020,Tilburg
@@ -3356,6 +3643,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,1.0,217259.0,02,03-05-2020,Tilburg
 3.0,1.0,217259.0,01,03-04-2020,Tilburg
 2.0,1.0,217259.0,00,03-03-2020,Tilburg
+4.0,19.0,21276.0,21,03-24-2020,Tubbergen
 4.0,19.0,21276.0,20,03-23-2020,Tubbergen
 3.0,14.0,21276.0,19,03-22-2020,Tubbergen
 3.0,14.0,21276.0,18,03-21-2020,Tubbergen
@@ -3371,6 +3659,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,21276.0,08,03-11-2020,Tubbergen
 1.0,5.0,21276.0,07,03-10-2020,Tubbergen
 1.0,5.0,21276.0,06,03-09-2020,Tubbergen
+3.0,9.0,33792.0,21,03-24-2020,Twenterand
 2.0,6.0,33792.0,20,03-23-2020,Twenterand
 1.0,3.0,33792.0,19,03-22-2020,Twenterand
 1.0,3.0,33792.0,18,03-21-2020,Twenterand
@@ -3378,6 +3667,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,33792.0,16,03-19-2020,Twenterand
 0.0,0.0,33792.0,15,03-18-2020,Twenterand
 0.0,0.0,33792.0,14,03-17-2020,Twenterand
+10.0,30.0,33698.0,21,03-24-2020,Tynaarlo
 8.0,24.0,33698.0,20,03-23-2020,Tynaarlo
 8.0,24.0,33698.0,19,03-22-2020,Tynaarlo
 7.0,21.0,33698.0,18,03-21-2020,Tynaarlo
@@ -3385,6 +3675,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,12.0,33698.0,16,03-19-2020,Tynaarlo
 3.0,9.0,33698.0,15,03-18-2020,Tynaarlo
 1.0,3.0,33698.0,14,03-17-2020,Tynaarlo
+1.0,3.0,31780.0,21,03-24-2020,Tytsjerksteradiel
 1.0,3.0,31780.0,20,03-23-2020,Tytsjerksteradiel
 1.0,3.0,31780.0,19,03-22-2020,Tytsjerksteradiel
 1.0,3.0,31780.0,18,03-21-2020,Tytsjerksteradiel
@@ -3393,6 +3684,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,31780.0,15,03-18-2020,Tytsjerksteradiel
 1.0,3.0,31780.0,14,03-17-2020,Tytsjerksteradiel
 1.0,3.0,31780.0,13,03-16-2020,Tytsjerksteradiel
+92.0,220.0,41782.0,21,03-24-2020,Uden
 84.0,201.0,41782.0,20,03-23-2020,Uden
 82.0,196.0,41782.0,19,03-22-2020,Uden
 76.0,182.0,41782.0,18,03-21-2020,Uden
@@ -3411,6 +3703,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 7.0,17.0,41782.0,05,03-08-2020,Uden
 6.0,14.0,41782.0,04,03-07-2020,Uden
 2.0,5.0,41782.0,03,03-06-2020,Uden
+4.0,30.0,13528.0,21,03-24-2020,Uitgeest
 4.0,30.0,13528.0,20,03-23-2020,Uitgeest
 4.0,30.0,13528.0,19,03-22-2020,Uitgeest
 2.0,15.0,13528.0,18,03-21-2020,Uitgeest
@@ -3418,6 +3711,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,13528.0,16,03-19-2020,Uitgeest
 0.0,0.0,13528.0,15,03-18-2020,Uitgeest
 0.0,0.0,13528.0,14,03-17-2020,Uitgeest
+4.0,14.0,29424.0,21,03-24-2020,Uithoorn
 2.0,7.0,29424.0,20,03-23-2020,Uithoorn
 2.0,7.0,29424.0,19,03-22-2020,Uithoorn
 2.0,7.0,29424.0,18,03-21-2020,Uithoorn
@@ -3425,6 +3719,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,7.0,29424.0,16,03-19-2020,Uithoorn
 1.0,3.0,29424.0,15,03-18-2020,Uithoorn
 0.0,0.0,29424.0,14,03-17-2020,Uithoorn
+7.0,34.0,20776.0,21,03-24-2020,Urk
 7.0,34.0,20776.0,20,03-23-2020,Urk
 7.0,34.0,20776.0,19,03-22-2020,Urk
 6.0,29.0,20776.0,18,03-21-2020,Urk
@@ -3432,6 +3727,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 4.0,19.0,20776.0,16,03-19-2020,Urk
 1.0,5.0,20776.0,15,03-18-2020,Urk
 0.0,0.0,20776.0,14,03-17-2020,Urk
+160.0,45.0,352866.0,21,03-24-2020,Utrecht
 145.0,41.0,352866.0,20,03-23-2020,Utrecht
 131.0,37.0,352866.0,19,03-22-2020,Utrecht
 121.0,34.0,352866.0,18,03-21-2020,Utrecht
@@ -3453,6 +3749,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 6.0,2.0,352866.0,02,03-05-2020,Utrecht
 2.0,1.0,352866.0,01,03-04-2020,Utrecht
 2.0,1.0,352866.0,00,03-03-2020,Utrecht
+14.0,28.0,49515.0,21,03-24-2020,Utrechtse Heuvelrug
 14.0,28.0,49515.0,20,03-23-2020,Utrechtse Heuvelrug
 11.0,22.0,49515.0,19,03-22-2020,Utrechtse Heuvelrug
 8.0,16.0,49515.0,18,03-21-2020,Utrechtse Heuvelrug
@@ -3471,6 +3768,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,49515.0,05,03-08-2020,Utrechtse Heuvelrug
 1.0,2.0,49515.0,04,03-07-2020,Utrechtse Heuvelrug
 1.0,2.0,49515.0,03,03-06-2020,Utrechtse Heuvelrug
+3.0,30.0,10092.0,21,03-24-2020,Vaals
 0.0,0.0,10092.0,20,03-23-2020,Vaals
 0.0,0.0,10092.0,19,03-22-2020,Vaals
 0.0,0.0,10092.0,18,03-21-2020,Vaals
@@ -3478,6 +3776,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,10092.0,16,03-19-2020,Vaals
 0.0,0.0,10092.0,15,03-18-2020,Vaals
 0.0,0.0,10092.0,14,03-17-2020,Vaals
+8.0,49.0,16470.0,21,03-24-2020,Valkenburg aan de Geul
 4.0,24.0,16470.0,20,03-23-2020,Valkenburg aan de Geul
 4.0,24.0,16470.0,19,03-22-2020,Valkenburg aan de Geul
 4.0,24.0,16470.0,18,03-21-2020,Valkenburg aan de Geul
@@ -3486,6 +3785,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,12.0,16470.0,15,03-18-2020,Valkenburg aan de Geul
 2.0,12.0,16470.0,14,03-17-2020,Valkenburg aan de Geul
 1.0,6.0,16470.0,13,03-16-2020,Valkenburg aan de Geul
+8.0,26.0,30910.0,21,03-24-2020,Valkenswaard
 5.0,16.0,30910.0,20,03-23-2020,Valkenswaard
 4.0,13.0,30910.0,19,03-22-2020,Valkenswaard
 4.0,13.0,30910.0,18,03-21-2020,Valkenswaard
@@ -3493,6 +3793,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,30910.0,16,03-19-2020,Valkenswaard
 1.0,3.0,30910.0,15,03-18-2020,Valkenswaard
 0.0,0.0,30910.0,14,03-17-2020,Valkenswaard
+0.0,0.0,27491.0,21,03-24-2020,Veendam
 0.0,0.0,27491.0,20,03-23-2020,Veendam
 0.0,0.0,27491.0,19,03-22-2020,Veendam
 0.0,0.0,27491.0,18,03-21-2020,Veendam
@@ -3500,6 +3801,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,27491.0,16,03-19-2020,Veendam
 0.0,0.0,27491.0,15,03-18-2020,Veendam
 0.0,0.0,27491.0,14,03-17-2020,Veendam
+6.0,9.0,65589.0,21,03-24-2020,Veenendaal
 6.0,9.0,65589.0,20,03-23-2020,Veenendaal
 3.0,5.0,65589.0,19,03-22-2020,Veenendaal
 2.0,3.0,65589.0,18,03-21-2020,Veenendaal
@@ -3512,6 +3814,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,65589.0,11,03-14-2020,Veenendaal
 1.0,2.0,65589.0,10,03-13-2020,Veenendaal
 1.0,2.0,65589.0,09,03-12-2020,Veenendaal
+6.0,27.0,21835.0,21,03-24-2020,Veere
 6.0,27.0,21835.0,20,03-23-2020,Veere
 5.0,23.0,21835.0,19,03-22-2020,Veere
 5.0,23.0,21835.0,18,03-21-2020,Veere
@@ -3525,6 +3828,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,21835.0,10,03-13-2020,Veere
 1.0,5.0,21835.0,09,03-12-2020,Veere
 2.0,9.0,21835.0,08,03-11-2020,Veere
+14.0,31.0,45337.0,21,03-24-2020,Veldhoven
 11.0,24.0,45337.0,20,03-23-2020,Veldhoven
 11.0,24.0,45337.0,19,03-22-2020,Veldhoven
 9.0,20.0,45337.0,18,03-21-2020,Veldhoven
@@ -3540,6 +3844,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,45337.0,08,03-11-2020,Veldhoven
 1.0,2.0,45337.0,07,03-10-2020,Veldhoven
 1.0,2.0,45337.0,06,03-09-2020,Veldhoven
+15.0,22.0,68348.0,21,03-24-2020,Velsen
 11.0,16.0,68348.0,20,03-23-2020,Velsen
 10.0,15.0,68348.0,19,03-22-2020,Velsen
 8.0,12.0,68348.0,18,03-21-2020,Velsen
@@ -3552,6 +3857,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,68348.0,11,03-14-2020,Velsen
 1.0,1.0,68348.0,10,03-13-2020,Velsen
 1.0,1.0,68348.0,09,03-12-2020,Velsen
+40.0,39.0,101603.0,21,03-24-2020,Venlo
 35.0,34.0,101603.0,20,03-23-2020,Venlo
 33.0,32.0,101603.0,19,03-22-2020,Venlo
 33.0,32.0,101603.0,18,03-21-2020,Venlo
@@ -3567,6 +3873,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,101603.0,08,03-11-2020,Venlo
 1.0,1.0,101603.0,07,03-10-2020,Venlo
 1.0,1.0,101603.0,06,03-09-2020,Venlo
+13.0,30.0,43326.0,21,03-24-2020,Venray
 10.0,23.0,43326.0,20,03-23-2020,Venray
 9.0,21.0,43326.0,19,03-22-2020,Venray
 8.0,18.0,43326.0,18,03-21-2020,Venray
@@ -3574,6 +3881,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,7.0,43326.0,16,03-19-2020,Venray
 1.0,2.0,43326.0,15,03-18-2020,Venray
 0.0,0.0,43326.0,14,03-17-2020,Venray
+18.0,32.0,55712.0,21,03-24-2020,Vijfheerenlanden
 12.0,22.0,55712.0,20,03-23-2020,Vijfheerenlanden
 11.0,20.0,55712.0,19,03-22-2020,Vijfheerenlanden
 9.0,16.0,55712.0,18,03-21-2020,Vijfheerenlanden
@@ -3591,6 +3899,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,55712.0,06,03-09-2020,Vijfheerenlanden
 1.0,2.0,55712.0,05,03-08-2020,Vijfheerenlanden
 1.0,2.0,55712.0,04,03-07-2020,Vijfheerenlanden
+18.0,25.0,72404.0,21,03-24-2020,Vlaardingen
 15.0,21.0,72404.0,20,03-23-2020,Vlaardingen
 15.0,21.0,72404.0,19,03-22-2020,Vlaardingen
 12.0,17.0,72404.0,18,03-21-2020,Vlaardingen
@@ -3603,6 +3912,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,72404.0,11,03-14-2020,Vlaardingen
 1.0,1.0,72404.0,10,03-13-2020,Vlaardingen
 1.0,1.0,72404.0,09,03-12-2020,Vlaardingen
+0.0,0.0,1138.0,21,03-24-2020,Vlieland
 0.0,0.0,1138.0,20,03-23-2020,Vlieland
 0.0,0.0,1138.0,19,03-22-2020,Vlieland
 0.0,0.0,1138.0,18,03-21-2020,Vlieland
@@ -3610,6 +3920,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,1138.0,16,03-19-2020,Vlieland
 0.0,0.0,1138.0,15,03-18-2020,Vlieland
 0.0,0.0,1138.0,14,03-17-2020,Vlieland
+8.0,18.0,44371.0,21,03-24-2020,Vlissingen
 8.0,18.0,44371.0,20,03-23-2020,Vlissingen
 6.0,14.0,44371.0,19,03-22-2020,Vlissingen
 6.0,14.0,44371.0,18,03-21-2020,Vlissingen
@@ -3622,6 +3933,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,5.0,44371.0,11,03-14-2020,Vlissingen
 2.0,5.0,44371.0,10,03-13-2020,Vlissingen
 2.0,5.0,44371.0,09,03-12-2020,Vlissingen
+5.0,40.0,12452.0,21,03-24-2020,Voerendaal
 4.0,32.0,12452.0,20,03-23-2020,Voerendaal
 4.0,32.0,12452.0,19,03-22-2020,Voerendaal
 4.0,32.0,12452.0,18,03-21-2020,Voerendaal
@@ -3629,6 +3941,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,24.0,12452.0,16,03-19-2020,Voerendaal
 3.0,24.0,12452.0,15,03-18-2020,Voerendaal
 1.0,8.0,12452.0,14,03-17-2020,Voerendaal
+3.0,12.0,25479.0,21,03-24-2020,Voorschoten
 3.0,12.0,25479.0,20,03-23-2020,Voorschoten
 3.0,12.0,25479.0,19,03-22-2020,Voorschoten
 2.0,8.0,25479.0,18,03-21-2020,Voorschoten
@@ -3636,6 +3949,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,25479.0,16,03-19-2020,Voorschoten
 1.0,4.0,25479.0,15,03-18-2020,Voorschoten
 0.0,0.0,25479.0,14,03-17-2020,Voorschoten
+3.0,12.0,24417.0,21,03-24-2020,Voorst
 2.0,8.0,24417.0,20,03-23-2020,Voorst
 2.0,8.0,24417.0,19,03-22-2020,Voorst
 2.0,8.0,24417.0,18,03-21-2020,Voorst
@@ -3651,6 +3965,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24417.0,08,03-11-2020,Voorst
 1.0,4.0,24417.0,07,03-10-2020,Voorst
 1.0,4.0,24417.0,06,03-09-2020,Voorst
+19.0,72.0,26396.0,21,03-24-2020,Vught
 17.0,64.0,26396.0,20,03-23-2020,Vught
 15.0,57.0,26396.0,19,03-22-2020,Vught
 11.0,42.0,26396.0,18,03-21-2020,Vught
@@ -3666,6 +3981,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,26396.0,08,03-11-2020,Vught
 1.0,4.0,26396.0,07,03-10-2020,Vught
 1.0,4.0,26396.0,06,03-09-2020,Vught
+0.0,0.0,46039.0,21,03-24-2020,Waadhoeke
 0.0,0.0,46039.0,20,03-23-2020,Waadhoeke
 0.0,0.0,46039.0,19,03-22-2020,Waadhoeke
 0.0,0.0,46039.0,18,03-21-2020,Waadhoeke
@@ -3673,6 +3989,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,46039.0,16,03-19-2020,Waadhoeke
 0.0,0.0,46039.0,15,03-18-2020,Waadhoeke
 0.0,0.0,46039.0,14,03-17-2020,Waadhoeke
+3.0,17.0,17247.0,21,03-24-2020,Waalre
 2.0,12.0,17247.0,20,03-23-2020,Waalre
 2.0,12.0,17247.0,19,03-22-2020,Waalre
 2.0,12.0,17247.0,18,03-21-2020,Waalre
@@ -3691,6 +4008,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17247.0,05,03-08-2020,Waalre
 1.0,6.0,17247.0,04,03-07-2020,Waalre
 1.0,6.0,17247.0,03,03-06-2020,Waalre
+29.0,60.0,48240.0,21,03-24-2020,Waalwijk
 24.0,50.0,48240.0,20,03-23-2020,Waalwijk
 22.0,46.0,48240.0,19,03-22-2020,Waalwijk
 16.0,33.0,48240.0,18,03-21-2020,Waalwijk
@@ -3709,6 +4027,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 5.0,10.0,48240.0,05,03-08-2020,Waalwijk
 3.0,6.0,48240.0,04,03-07-2020,Waalwijk
 1.0,2.0,48240.0,03,03-06-2020,Waalwijk
+4.0,14.0,28316.0,21,03-24-2020,Waddinxveen
 4.0,14.0,28316.0,20,03-23-2020,Waddinxveen
 4.0,14.0,28316.0,19,03-22-2020,Waddinxveen
 4.0,14.0,28316.0,18,03-21-2020,Waddinxveen
@@ -3723,6 +4042,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,28316.0,09,03-12-2020,Waddinxveen
 1.0,4.0,28316.0,08,03-11-2020,Waddinxveen
 1.0,4.0,28316.0,07,03-10-2020,Waddinxveen
+3.0,8.0,38774.0,21,03-24-2020,Wageningen
 3.0,8.0,38774.0,20,03-23-2020,Wageningen
 3.0,8.0,38774.0,19,03-22-2020,Wageningen
 3.0,8.0,38774.0,18,03-21-2020,Wageningen
@@ -3730,6 +4050,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,3.0,38774.0,16,03-19-2020,Wageningen
 1.0,3.0,38774.0,15,03-18-2020,Wageningen
 1.0,3.0,38774.0,14,03-17-2020,Wageningen
+5.0,19.0,26211.0,21,03-24-2020,Wassenaar
 5.0,19.0,26211.0,20,03-23-2020,Wassenaar
 5.0,19.0,26211.0,19,03-22-2020,Wassenaar
 5.0,19.0,26211.0,18,03-21-2020,Wassenaar
@@ -3741,6 +4062,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,11.0,26211.0,13,03-16-2020,Wassenaar
 2.0,8.0,26211.0,11,03-14-2020,Wassenaar
 1.0,4.0,26211.0,10,03-13-2020,Wassenaar
+10.0,58.0,17315.0,21,03-24-2020,Waterland
 9.0,52.0,17315.0,20,03-23-2020,Waterland
 8.0,46.0,17315.0,19,03-22-2020,Waterland
 8.0,46.0,17315.0,18,03-21-2020,Waterland
@@ -3757,6 +4079,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17315.0,07,03-10-2020,Waterland
 1.0,6.0,17315.0,06,03-09-2020,Waterland
 1.0,6.0,17315.0,05,03-08-2020,Waterland
+17.0,34.0,49842.0,21,03-24-2020,Weert
 12.0,24.0,49842.0,20,03-23-2020,Weert
 7.0,14.0,49842.0,19,03-22-2020,Weert
 7.0,14.0,49842.0,18,03-21-2020,Weert
@@ -3764,6 +4087,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,49842.0,16,03-19-2020,Weert
 0.0,0.0,49842.0,15,03-18-2020,Weert
 0.0,0.0,49842.0,14,03-17-2020,Weert
+2.0,10.0,19334.0,21,03-24-2020,Weesp
 1.0,5.0,19334.0,20,03-23-2020,Weesp
 1.0,5.0,19334.0,19,03-22-2020,Weesp
 1.0,5.0,19334.0,18,03-21-2020,Weesp
@@ -3771,6 +4095,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,19334.0,16,03-19-2020,Weesp
 0.0,0.0,19334.0,15,03-18-2020,Weesp
 0.0,0.0,19334.0,14,03-17-2020,Weesp
+17.0,34.0,50697.0,21,03-24-2020,West Betuwe
 15.0,30.0,50697.0,20,03-23-2020,West Betuwe
 12.0,24.0,50697.0,19,03-22-2020,West Betuwe
 12.0,24.0,50697.0,18,03-21-2020,West Betuwe
@@ -3789,6 +4114,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,50697.0,05,03-08-2020,West Betuwe
 2.0,4.0,50697.0,04,03-07-2020,West Betuwe
 1.0,2.0,50697.0,03,03-06-2020,West Betuwe
+8.0,42.0,19076.0,21,03-24-2020,West Maas en Waal
 7.0,37.0,19076.0,20,03-23-2020,West Maas en Waal
 6.0,31.0,19076.0,19,03-22-2020,West Maas en Waal
 4.0,21.0,19076.0,18,03-21-2020,West Maas en Waal
@@ -3807,6 +4133,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,19076.0,05,03-08-2020,West Maas en Waal
 1.0,5.0,19076.0,04,03-07-2020,West Maas en Waal
 1.0,5.0,19076.0,03,03-06-2020,West Maas en Waal
+8.0,13.0,63031.0,21,03-24-2020,Westerkwartier
 8.0,13.0,63031.0,20,03-23-2020,Westerkwartier
 6.0,10.0,63031.0,19,03-22-2020,Westerkwartier
 3.0,5.0,63031.0,18,03-21-2020,Westerkwartier
@@ -3816,6 +4143,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,63031.0,14,03-17-2020,Westerkwartier
 1.0,2.0,63031.0,12,03-16-2020,Westerkwartier
 1.0,2.0,63031.0,13,03-16-2020,Westerkwartier
+2.0,10.0,19348.0,21,03-24-2020,Westerveld
 2.0,10.0,19348.0,20,03-23-2020,Westerveld
 1.0,5.0,19348.0,19,03-22-2020,Westerveld
 1.0,5.0,19348.0,18,03-21-2020,Westerveld
@@ -3823,6 +4151,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,19348.0,16,03-19-2020,Westerveld
 0.0,0.0,19348.0,15,03-18-2020,Westerveld
 0.0,0.0,19348.0,14,03-17-2020,Westerveld
+2.0,13.0,14944.0,21,03-24-2020,Westervoort
 2.0,13.0,14944.0,20,03-23-2020,Westervoort
 2.0,13.0,14944.0,19,03-22-2020,Westervoort
 1.0,7.0,14944.0,18,03-21-2020,Westervoort
@@ -3830,6 +4159,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,14944.0,16,03-19-2020,Westervoort
 0.0,0.0,14944.0,15,03-18-2020,Westervoort
 0.0,0.0,14944.0,14,03-17-2020,Westervoort
+0.0,0.0,25199.0,21,03-24-2020,Westerwolde
 0.0,0.0,25199.0,20,03-23-2020,Westerwolde
 0.0,0.0,25199.0,19,03-22-2020,Westerwolde
 0.0,0.0,25199.0,18,03-21-2020,Westerwolde
@@ -3837,6 +4167,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,25199.0,16,03-19-2020,Westerwolde
 0.0,0.0,25199.0,15,03-18-2020,Westerwolde
 0.0,0.0,25199.0,14,03-17-2020,Westerwolde
+25.0,23.0,108603.0,21,03-24-2020,Westland
 21.0,19.0,108603.0,20,03-23-2020,Westland
 15.0,14.0,108603.0,19,03-22-2020,Westland
 11.0,10.0,108603.0,18,03-21-2020,Westland
@@ -3846,6 +4177,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,3.0,108603.0,14,03-17-2020,Westland
 1.0,1.0,108603.0,12,03-16-2020,Westland
 1.0,1.0,108603.0,13,03-16-2020,Westland
+1.0,4.0,25840.0,21,03-24-2020,Weststellingwerf
 1.0,4.0,25840.0,20,03-23-2020,Weststellingwerf
 1.0,4.0,25840.0,19,03-22-2020,Weststellingwerf
 1.0,4.0,25840.0,18,03-21-2020,Weststellingwerf
@@ -3853,6 +4185,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,25840.0,16,03-19-2020,Weststellingwerf
 0.0,0.0,25840.0,15,03-18-2020,Weststellingwerf
 0.0,0.0,25840.0,14,03-17-2020,Weststellingwerf
+8.0,55.0,14626.0,21,03-24-2020,Westvoorne
 7.0,48.0,14626.0,20,03-23-2020,Westvoorne
 5.0,34.0,14626.0,19,03-22-2020,Westvoorne
 3.0,21.0,14626.0,18,03-21-2020,Westvoorne
@@ -3871,6 +4204,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,7.0,14626.0,05,03-08-2020,Westvoorne
 1.0,7.0,14626.0,04,03-07-2020,Westvoorne
 1.0,7.0,14626.0,03,03-06-2020,Westvoorne
+0.0,0.0,24351.0,21,03-24-2020,Wierden
 0.0,0.0,24351.0,20,03-23-2020,Wierden
 0.0,0.0,24351.0,19,03-22-2020,Wierden
 0.0,0.0,24351.0,18,03-21-2020,Wierden
@@ -3878,6 +4212,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,24351.0,16,03-19-2020,Wierden
 0.0,0.0,24351.0,15,03-18-2020,Wierden
 0.0,0.0,24351.0,14,03-17-2020,Wierden
+23.0,56.0,40951.0,21,03-24-2020,Wijchen
 21.0,51.0,40951.0,20,03-23-2020,Wijchen
 20.0,49.0,40951.0,19,03-22-2020,Wijchen
 17.0,42.0,40951.0,18,03-21-2020,Wijchen
@@ -3894,6 +4229,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,40951.0,07,03-10-2020,Wijchen
 1.0,2.0,40951.0,06,03-09-2020,Wijchen
 1.0,2.0,40951.0,05,03-08-2020,Wijchen
+1.0,4.0,24013.0,21,03-24-2020,Wijdemeren
 1.0,4.0,24013.0,20,03-23-2020,Wijdemeren
 1.0,4.0,24013.0,19,03-22-2020,Wijdemeren
 1.0,4.0,24013.0,18,03-21-2020,Wijdemeren
@@ -3901,6 +4237,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,24013.0,16,03-19-2020,Wijdemeren
 1.0,4.0,24013.0,15,03-18-2020,Wijdemeren
 0.0,0.0,24013.0,14,03-17-2020,Wijdemeren
+6.0,25.0,23762.0,21,03-24-2020,Wijk bij Duurstede
 6.0,25.0,23762.0,20,03-23-2020,Wijk bij Duurstede
 6.0,25.0,23762.0,19,03-22-2020,Wijk bij Duurstede
 6.0,25.0,23762.0,18,03-21-2020,Wijk bij Duurstede
@@ -3919,6 +4256,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,23762.0,05,03-08-2020,Wijk bij Duurstede
 1.0,4.0,23762.0,04,03-07-2020,Wijk bij Duurstede
 1.0,4.0,23762.0,03,03-06-2020,Wijk bij Duurstede
+2.0,7.0,28903.0,21,03-24-2020,Winterswijk
 2.0,7.0,28903.0,20,03-23-2020,Winterswijk
 2.0,7.0,28903.0,19,03-22-2020,Winterswijk
 1.0,3.0,28903.0,18,03-21-2020,Winterswijk
@@ -3926,6 +4264,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,28903.0,16,03-19-2020,Winterswijk
 0.0,0.0,28903.0,15,03-18-2020,Winterswijk
 0.0,0.0,28903.0,14,03-17-2020,Winterswijk
+4.0,18.0,21866.0,21,03-24-2020,Woensdrecht
 3.0,14.0,21866.0,20,03-23-2020,Woensdrecht
 2.0,9.0,21866.0,19,03-22-2020,Woensdrecht
 0.0,0.0,21866.0,18,03-21-2020,Woensdrecht
@@ -3933,6 +4272,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,21866.0,16,03-19-2020,Woensdrecht
 0.0,0.0,21866.0,15,03-18-2020,Woensdrecht
 0.0,0.0,21866.0,14,03-17-2020,Woensdrecht
+19.0,36.0,52197.0,21,03-24-2020,Woerden
 14.0,27.0,52197.0,20,03-23-2020,Woerden
 7.0,13.0,52197.0,19,03-22-2020,Woerden
 6.0,11.0,52197.0,18,03-21-2020,Woerden
@@ -3951,6 +4291,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,4.0,52197.0,05,03-08-2020,Woerden
 2.0,4.0,52197.0,04,03-07-2020,Woerden
 2.0,4.0,52197.0,03,03-06-2020,Woerden
+2.0,12.0,16329.0,21,03-24-2020,Wormerland
 2.0,12.0,16329.0,20,03-23-2020,Wormerland
 1.0,6.0,16329.0,19,03-22-2020,Wormerland
 1.0,6.0,16329.0,18,03-21-2020,Wormerland
@@ -3958,6 +4299,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,16329.0,16,03-19-2020,Wormerland
 0.0,0.0,16329.0,15,03-18-2020,Wormerland
 0.0,0.0,16329.0,14,03-17-2020,Wormerland
+4.0,30.0,13166.0,21,03-24-2020,Woudenberg
 4.0,30.0,13166.0,20,03-23-2020,Woudenberg
 3.0,23.0,13166.0,19,03-22-2020,Woudenberg
 3.0,23.0,13166.0,18,03-21-2020,Woudenberg
@@ -3971,6 +4313,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,8.0,13166.0,10,03-13-2020,Woudenberg
 1.0,8.0,13166.0,09,03-12-2020,Woudenberg
 1.0,8.0,13166.0,08,03-11-2020,Woudenberg
+20.0,13.0,155885.0,21,03-24-2020,Zaanstad
 19.0,12.0,155885.0,20,03-23-2020,Zaanstad
 11.0,7.0,155885.0,19,03-22-2020,Zaanstad
 9.0,6.0,155885.0,18,03-21-2020,Zaanstad
@@ -3988,6 +4331,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,1.0,155885.0,06,03-09-2020,Zaanstad
 2.0,1.0,155885.0,05,03-08-2020,Zaanstad
 2.0,1.0,155885.0,04,03-07-2020,Zaanstad
+7.0,25.0,28451.0,21,03-24-2020,Zaltbommel
 7.0,25.0,28451.0,20,03-23-2020,Zaltbommel
 6.0,21.0,28451.0,19,03-22-2020,Zaltbommel
 5.0,18.0,28451.0,18,03-21-2020,Zaltbommel
@@ -4008,6 +4352,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,28451.0,03,03-06-2020,Zaltbommel
 1.0,4.0,28451.0,02,03-05-2020,Zaltbommel
 1.0,4.0,28451.0,01,03-04-2020,Zaltbommel
+6.0,35.0,17011.0,21,03-24-2020,Zandvoort
 3.0,18.0,17011.0,20,03-23-2020,Zandvoort
 2.0,12.0,17011.0,19,03-22-2020,Zandvoort
 2.0,12.0,17011.0,18,03-21-2020,Zandvoort
@@ -4018,6 +4363,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,6.0,17011.0,12,03-16-2020,Zandvoort
 1.0,6.0,17011.0,13,03-16-2020,Zandvoort
 1.0,6.0,17011.0,11,03-14-2020,Zandvoort
+4.0,18.0,22309.0,21,03-24-2020,Zeewolde
 4.0,18.0,22309.0,20,03-23-2020,Zeewolde
 4.0,18.0,22309.0,19,03-22-2020,Zeewolde
 4.0,18.0,22309.0,18,03-21-2020,Zeewolde
@@ -4037,6 +4383,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,4.0,22309.0,04,03-07-2020,Zeewolde
 1.0,4.0,22309.0,03,03-06-2020,Zeewolde
 1.0,4.0,22309.0,02,03-05-2020,Zeewolde
+20.0,31.0,63934.0,21,03-24-2020,Zeist
 19.0,30.0,63934.0,20,03-23-2020,Zeist
 17.0,27.0,63934.0,19,03-22-2020,Zeist
 17.0,27.0,63934.0,18,03-21-2020,Zeist
@@ -4054,6 +4401,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,63934.0,06,03-09-2020,Zeist
 1.0,2.0,63934.0,05,03-08-2020,Zeist
 1.0,2.0,63934.0,04,03-07-2020,Zeist
+10.0,23.0,43488.0,21,03-24-2020,Zevenaar
 9.0,21.0,43488.0,20,03-23-2020,Zevenaar
 8.0,18.0,43488.0,19,03-22-2020,Zevenaar
 6.0,14.0,43488.0,18,03-21-2020,Zevenaar
@@ -4061,6 +4409,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,7.0,43488.0,16,03-19-2020,Zevenaar
 2.0,5.0,43488.0,15,03-18-2020,Zevenaar
 0.0,0.0,43488.0,14,03-17-2020,Zevenaar
+8.0,6.0,124944.0,21,03-24-2020,Zoetermeer
 7.0,6.0,124944.0,20,03-23-2020,Zoetermeer
 5.0,4.0,124944.0,19,03-22-2020,Zoetermeer
 4.0,3.0,124944.0,18,03-21-2020,Zoetermeer
@@ -4068,6 +4417,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,1.0,124944.0,16,03-19-2020,Zoetermeer
 1.0,1.0,124944.0,15,03-18-2020,Zoetermeer
 0.0,0.0,124944.0,14,03-17-2020,Zoetermeer
+1.0,12.0,8450.0,21,03-24-2020,Zoeterwoude
 0.0,0.0,8450.0,20,03-23-2020,Zoeterwoude
 0.0,0.0,8450.0,19,03-22-2020,Zoeterwoude
 0.0,0.0,8450.0,18,03-21-2020,Zoeterwoude
@@ -4075,6 +4425,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,8450.0,16,03-19-2020,Zoeterwoude
 0.0,0.0,8450.0,15,03-18-2020,Zoeterwoude
 0.0,0.0,8450.0,14,03-17-2020,Zoeterwoude
+3.0,7.0,42762.0,21,03-24-2020,Zuidplas
 3.0,7.0,42762.0,20,03-23-2020,Zuidplas
 3.0,7.0,42762.0,19,03-22-2020,Zuidplas
 1.0,2.0,42762.0,18,03-21-2020,Zuidplas
@@ -4082,6 +4433,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 0.0,0.0,42762.0,16,03-19-2020,Zuidplas
 0.0,0.0,42762.0,15,03-18-2020,Zuidplas
 0.0,0.0,42762.0,14,03-17-2020,Zuidplas
+11.0,51.0,21612.0,21,03-24-2020,Zundert
 9.0,42.0,21612.0,20,03-23-2020,Zundert
 7.0,32.0,21612.0,19,03-22-2020,Zundert
 7.0,32.0,21612.0,18,03-21-2020,Zundert
@@ -4098,6 +4450,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,5.0,21612.0,07,03-10-2020,Zundert
 1.0,5.0,21612.0,06,03-09-2020,Zundert
 1.0,5.0,21612.0,05,03-08-2020,Zundert
+6.0,13.0,47609.0,21,03-24-2020,Zutphen
 6.0,13.0,47609.0,20,03-23-2020,Zutphen
 4.0,8.0,47609.0,19,03-22-2020,Zutphen
 4.0,8.0,47609.0,18,03-21-2020,Zutphen
@@ -4105,6 +4458,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 1.0,2.0,47609.0,16,03-19-2020,Zutphen
 1.0,2.0,47609.0,15,03-18-2020,Zutphen
 1.0,2.0,47609.0,14,03-17-2020,Zutphen
+22.0,98.0,22503.0,21,03-24-2020,Zwartewaterland
 19.0,84.0,22503.0,20,03-23-2020,Zwartewaterland
 17.0,76.0,22503.0,19,03-22-2020,Zwartewaterland
 15.0,67.0,22503.0,18,03-21-2020,Zwartewaterland
@@ -4116,6 +4470,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 2.0,9.0,22503.0,13,03-16-2020,Zwartewaterland
 2.0,9.0,22503.0,11,03-14-2020,Zwartewaterland
 2.0,9.0,22503.0,10,03-13-2020,Zwartewaterland
+8.0,18.0,44639.0,21,03-24-2020,Zwijndrecht
 6.0,13.0,44639.0,20,03-23-2020,Zwijndrecht
 6.0,13.0,44639.0,19,03-22-2020,Zwijndrecht
 6.0,13.0,44639.0,18,03-21-2020,Zwijndrecht
@@ -4126,6 +4481,7 @@ Aantal,Aantal per 100000 inwoners,BevAant,Count,Datum,Gemeente
 3.0,7.0,44639.0,12,03-16-2020,Zwijndrecht
 3.0,7.0,44639.0,13,03-16-2020,Zwijndrecht
 2.0,4.0,44639.0,11,03-14-2020,Zwijndrecht
+40.0,31.0,127497.0,21,03-24-2020,Zwolle
 35.0,27.0,127497.0,20,03-23-2020,Zwolle
 28.0,22.0,127497.0,19,03-22-2020,Zwolle
 23.0,18.0,127497.0,18,03-21-2020,Zwolle
